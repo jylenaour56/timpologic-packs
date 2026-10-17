@@ -1,0 +1,468 @@
+{
+  "pack": "eu",
+  "title": "Europe - fiches pays",
+  "updated": "2026-10",
+  "note": "pop = population en millions d'habitants, area = superficie en km2. Chiffres arrondis, ordres de grandeur ~2024. Fichier editable en ligne (GitHub Pages) puis recache par l'appli.",
+  "items": {
+    "fr": {
+      "name": "France",
+      "capitale": "Paris",
+      "pop": 68.4,
+      "area": 643801,
+      "langues": "fran\u00c3\u00a7ais",
+      "monnaie": "euro",
+      "regime": "r\u00c3\u00a9publique semi-pr\u00c3\u00a9sidentielle",
+      "info": "Plus grand pays d'Europe occidentale. L'Hexagone compte 101 d\u00c3\u00a9partements, dont 5 outre-mer."
+    },
+    "de": {
+      "name": "Allemagne",
+      "capitale": "Berlin",
+      "pop": 84.5,
+      "area": 357588,
+      "langues": "allemand",
+      "monnaie": "euro",
+      "regime": "r\u00c3\u00a9publique f\u00c3\u00a9d\u00c3\u00a9rale parlementaire",
+      "info": "Premi\u00c3\u00a8re \u00c3\u00a9conomie d'Europe. Compos\u00c3\u00a9e de 16 L\u00c3\u00a4nder (\u00c3\u00a9tats f\u00c3\u00a9d\u00c3\u00a9r\u00c3\u00a9s)."
+    },
+    "at": {
+      "name": "Autriche",
+      "capitale": "Vienne",
+      "pop": 9.1,
+      "area": 83879,
+      "langues": "allemand",
+      "monnaie": "euro",
+      "regime": "r\u00c3\u00a9publique f\u00c3\u00a9d\u00c3\u00a9rale parlementaire",
+      "info": "Pays alpin, berceau de la musique classique : Mozart, Strauss... Vienne fut le centre d'un grand empire."
+    },
+    "be": {
+      "name": "Belgique",
+      "capitale": "Bruxelles",
+      "pop": 11.8,
+      "area": 30528,
+      "langues": "n\u00c3\u00a9erlandais, fran\u00c3\u00a7ais, allemand",
+      "monnaie": "euro",
+      "regime": "monarchie f\u00c3\u00a9d\u00c3\u00a9rale parlementaire",
+      "info": "Si\u00c3\u00a8ge de l'Union europ\u00c3\u00a9enne et de l'OTAN. Terre de la bande dessin\u00c3\u00a9e (Tintin, Lucky Luke) et du chocolat."
+    },
+    "by": {
+      "name": "Bi\u00c3\u00a9lorussie",
+      "capitale": "Minsk",
+      "pop": 9.2,
+      "area": 207600,
+      "langues": "bi\u00c3\u00a9lorusse, russe",
+      "monnaie": "rouble bi\u00c3\u00a9lorusse",
+      "regime": "r\u00c3\u00a9publique pr\u00c3\u00a9sidentielle",
+      "info": "Pays plat couvert de for\u00c3\u00aats. La for\u00c3\u00aat de Bia\u00c5\u0082owie\u00c5\u00bca abrite les derniers bisons d'Europe sauvages."
+    },
+    "ba": {
+      "name": "Bosnie-Herz\u00c3\u00a9govine",
+      "capitale": "Sarajevo",
+      "pop": 3.2,
+      "area": 51197,
+      "langues": "bosnien, croate, serbe",
+      "monnaie": "mark convertible",
+      "regime": "r\u00c3\u00a9publique f\u00c3\u00a9d\u00c3\u00a9rale",
+      "info": "Sarajevo, o\u00c3\u00b9 fut assassin\u00c3\u00a9 l'archiduc Fran\u00c3\u00a7ois-Ferdinand en 1914, d\u00c3\u00a9clenchant la Premi\u00c3\u00a8re Guerre mondiale."
+    },
+    "bg": {
+      "name": "Bulgarie",
+      "capitale": "Sofia",
+      "pop": 6.4,
+      "area": 110994,
+      "langues": "bulgare",
+      "monnaie": "euro",
+      "regime": "r\u00c3\u00a9publique parlementaire",
+      "info": "L'alphabet cyrillique y est n\u00c3\u00a9. Le pays a adopt\u00c3\u00a9 l'euro le 1er janvier 2026. Rose et yaourt sont des gloires nationales."
+    },
+    "cy": {
+      "name": "Chypre",
+      "capitale": "Nicosie",
+      "pop": 1.3,
+      "area": 9251,
+      "langues": "grec, turc",
+      "monnaie": "euro",
+      "regime": "r\u00c3\u00a9publique pr\u00c3\u00a9sidentielle",
+      "info": "\u00c3\u008ele coup\u00c3\u00a9e en deux depuis 1974 par une ligne de s\u00c3\u00a9paration. Selon la l\u00c3\u00a9gende, lieu de naissance d'Aphrodite."
+    },
+    "hr": {
+      "name": "Croatie",
+      "capitale": "Zagreb",
+      "pop": 3.9,
+      "area": 56594,
+      "langues": "croate",
+      "monnaie": "euro",
+      "regime": "r\u00c3\u00a9publique parlementaire",
+      "info": "C\u00c3\u00b4te Adriatique \u00c3\u00a9toil\u00c3\u00a9e : plus de 1000 \u00c3\u00aeles. Dubrovnik, la \u00c2\u00ab perle de l'Adriatique \u00c2\u00bb, est class\u00c3\u00a9e \u00c3\u00a0 l'UNESCO."
+    },
+    "dk": {
+      "name": "Danemark",
+      "capitale": "Copenhague",
+      "pop": 5.9,
+      "area": 43094,
+      "langues": "danois",
+      "monnaie": "couronne danoise",
+      "regime": "monarchie parlementaire",
+      "info": "Royaume le plus ancien d'Europe. Patrie de Hans Christian Andersen et de la tranche de vie \u00c2\u00ab hygge \u00c2\u00bb."
+    },
+    "es": {
+      "name": "Espagne",
+      "capitale": "Madrid",
+      "pop": 48.6,
+      "area": 505990,
+      "langues": "espagnol (castillan)",
+      "monnaie": "euro",
+      "regime": "monarchie parlementaire",
+      "info": "17 communaut\u00c3\u00a9s autonomes. Deuxi\u00c3\u00a8me pays le plus visit\u00c3\u00a9 au monde, de la Sagrada Fam\u00c3\u00adlia \u00c3\u00a0 l'Alhambra."
+    },
+    "ee": {
+      "name": "Estonie",
+      "capitale": "Tallinn",
+      "pop": 1.4,
+      "area": 45227,
+      "langues": "estonien",
+      "monnaie": "euro",
+      "regime": "r\u00c3\u00a9publique parlementaire",
+      "info": "La plus num\u00c3\u00a9rique des nations : vote par Internet depuis 2005. Vieille ville de Tallinn m\u00c3\u00a9di\u00c3\u00a9vale intacte."
+    },
+    "fi": {
+      "name": "Finlande",
+      "capitale": "Helsinki",
+      "pop": 5.6,
+      "area": 338455,
+      "langues": "finnois, su\u00c3\u00a9dois",
+      "monnaie": "euro",
+      "regime": "r\u00c3\u00a9publique parlementaire",
+      "info": "188 000 lacs, le sauna comme institution, et le pays le plus bois\u00c3\u00a9 d'Europe. Les aurores bor\u00c3\u00a9ales en hiver."
+    },
+    "gr": {
+      "name": "Gr\u00c3\u00a8ce",
+      "capitale": "Ath\u00c3\u00a8nes",
+      "pop": 10.4,
+      "area": 131957,
+      "langues": "grec",
+      "monnaie": "euro",
+      "regime": "r\u00c3\u00a9publique parlementaire",
+      "info": "Berceau de la d\u00c3\u00a9mocratie, des Jeux olympiques et de la philosophie. Environ 6000 \u00c3\u00aeles, dont 227 habit\u00c3\u00a9es."
+    },
+    "hu": {
+      "name": "Hongrie",
+      "capitale": "Budapest",
+      "pop": 9.6,
+      "area": 93028,
+      "langues": "hongrois",
+      "monnaie": "forint",
+      "regime": "r\u00c3\u00a9publique parlementaire",
+      "info": "Langue unique en Europe centrale. Budapest, \u00c2\u00ab perle du Danube \u00c2\u00bb, est n\u00c3\u00a9e de la fusion de Buda et Pest en 1873."
+    },
+    "ie": {
+      "name": "Irlande",
+      "capitale": "Dublin",
+      "pop": 5.3,
+      "area": 70273,
+      "langues": "irlandais, anglais",
+      "monnaie": "euro",
+      "regime": "r\u00c3\u00a9publique parlementaire",
+      "info": "L'\u00c3\u00aele d'\u00c3\u0089meraude, patrie de la f\u00c3\u00aate de la Saint-Patrick et des falaises de Moher. Seul pays anglophone de la zone euro."
+    },
+    "is": {
+      "name": "Islande",
+      "capitale": "Reykjavik",
+      "pop": 0.4,
+      "area": 103000,
+      "langues": "islandais",
+      "monnaie": "couronne islandaise",
+      "regime": "r\u00c3\u00a9publique parlementaire",
+      "info": "\u00c3\u008ele de glace et de feu : g\u00c3\u00a9ysers, volcans, sources chaudes. Presque 100 % \u00c3\u00a9lectricit\u00c3\u00a9 renouvelable."
+    },
+    "it": {
+      "name": "Italie",
+      "capitale": "Rome",
+      "pop": 58.9,
+      "area": 302073,
+      "langues": "italien",
+      "monnaie": "euro",
+      "regime": "r\u00c3\u00a9publique parlementaire",
+      "info": "Record absolu : le pays abrite le plus de sites UNESCO au monde. Rome, la Ville \u00c3\u00a9ternelle, a 28 si\u00c3\u00a8cles."
+    },
+    "lv": {
+      "name": "Lettonie",
+      "capitale": "Riga",
+      "pop": 1.9,
+      "area": 64589,
+      "langues": "letton",
+      "monnaie": "euro",
+      "regime": "r\u00c3\u00a9publique parlementaire",
+      "info": "Riga, \u00c2\u00ab Paris de la Baltique \u00c2\u00bb, est un joyau Art nouveau. Le pays est couvert \u00c3\u00a0 plus de 50 % de for\u00c3\u00aats."
+    },
+    "li": {
+      "name": "Liechtenstein",
+      "capitale": "Vaduz",
+      "pop": 0.04,
+      "area": 160,
+      "langues": "allemand",
+      "monnaie": "franc suisse",
+      "regime": "monarchie constitutionnelle",
+      "info": "Quatri\u00c3\u00a8me plus petit \u00c3\u0089tat d'Europe : 38 000 habitants, pas d'a\u00c3\u00a9roport, mais... un taux de princesse par habitat record !"
+    },
+    "lt": {
+      "name": "Lituanie",
+      "capitale": "Vilnius",
+      "pop": 2.9,
+      "area": 65300,
+      "langues": "lituanien",
+      "monnaie": "euro",
+      "regime": "r\u00c3\u00a9publique parlementaire",
+      "info": "Le lituanien est la langue vivante la plus proche de l'indo-europ\u00c3\u00a9en originel. Pays de la colline des croix."
+    },
+    "lu": {
+      "name": "Luxembourg",
+      "capitale": "Luxembourg",
+      "pop": 0.66,
+      "area": 2586,
+      "langues": "luxembourgeois, fran\u00c3\u00a7ais, allemand",
+      "monnaie": "euro",
+      "regime": "monarchie constitutionnelle",
+      "info": "Seul grand-duch\u00c3\u00a9 au monde. Son vieux quartier fortifi\u00c3\u00a9 est surnomm\u00c3\u00a9 \u00c2\u00ab le Gibraltar du Nord \u00c2\u00bb."
+    },
+    "mk": {
+      "name": "Mac\u00c3\u00a9doine du Nord",
+      "capitale": "Skopje",
+      "pop": 1.8,
+      "area": 25713,
+      "langues": "mac\u00c3\u00a9donien",
+      "monnaie": "denar",
+      "regime": "r\u00c3\u00a9publique parlementaire",
+      "info": "Pays sans mer, riche en montagnes et monast\u00c3\u00a8res. Lac d'Ohrid, l'un des plus anciens du monde (4 millions d'ann\u00c3\u00a9es)."
+    },
+    "mt": {
+      "name": "Malte",
+      "capitale": "La Valette",
+      "pop": 0.55,
+      "area": 316,
+      "langues": "maltais, anglais",
+      "monnaie": "euro",
+      "regime": "r\u00c3\u00a9publique parlementaire",
+      "info": "Plus petit \u00c3\u0089tat de l'UE (316 km\u00c2\u00b2). Temples m\u00c3\u00a9galithiques plus vieux que les pyramides d'\u00c3\u0089gypte."
+    },
+    "md": {
+      "name": "Moldavie",
+      "capitale": "Chisinau",
+      "pop": 2.5,
+      "area": 33846,
+      "langues": "roumain",
+      "monnaie": "leu moldave",
+      "regime": "r\u00c3\u00a9publique parlementaire",
+      "info": "Vignobles du l\u00c3\u00a9gendaire Cricova, cave g\u00c3\u00a9ante de 120 km de galeries. Le cellier est une ville souterraine."
+    },
+    "mc": {
+      "name": "Monaco",
+      "capitale": "Monaco",
+      "pop": 0.038,
+      "area": 2,
+      "langues": "fran\u00c3\u00a7ais",
+      "monnaie": "euro",
+      "regime": "monarchie constitutionnelle",
+      "info": "Deuxi\u00c3\u00a8me plus petit \u00c3\u0089tat du monde (2 km\u00c2\u00b2) et le plus dens\u00c3\u00a9ment peupl\u00c3\u00a9. Grand Prix de F1 en pleine ville."
+    },
+    "me": {
+      "name": "Mont\u00c3\u00a9n\u00c3\u00a9gro",
+      "capitale": "Podgorica",
+      "pop": 0.62,
+      "area": 13812,
+      "langues": "mont\u00c3\u00a9n\u00c3\u00a9grin",
+      "monnaie": "euro",
+      "regime": "r\u00c3\u00a9publique parlementaire",
+      "info": "La baie de Kotor ressemble \u00c3\u00a0 un fjord m\u00c3\u00a9diterran\u00c3\u00a9en. Utilise l'euro sans \u00c3\u00aatre dans la zone euro."
+    },
+    "no": {
+      "name": "Norv\u00c3\u00a8ge",
+      "capitale": "Oslo",
+      "pop": 5.5,
+      "area": 385207,
+      "langues": "norv\u00c3\u00a9gien",
+      "monnaie": "couronne norv\u00c3\u00a9gienne",
+      "regime": "monarchie parlementaire",
+      "info": "Royaume des fjords. \u00c3\u0089lu pays le plus heureux du monde de nombreuses ann\u00c3\u00a9es. N'a jamais rejoint l'UE."
+    },
+    "nl": {
+      "name": "Pays-Bas",
+      "capitale": "Amsterdam",
+      "pop": 17.9,
+      "area": 41850,
+      "langues": "n\u00c3\u00a9erlandais",
+      "monnaie": "euro",
+      "regime": "monarchie parlementaire",
+      "info": "Environ un quart du territoire est sous le niveau de la mer, prot\u00c3\u00a9g\u00c3\u00a9 par digues et moulins. Pays des tulipes."
+    },
+    "pl": {
+      "name": "Pologne",
+      "capitale": "Varsovie",
+      "pop": 36.6,
+      "area": 312696,
+      "langues": "polonais",
+      "monnaie": "zloty",
+      "regime": "r\u00c3\u00a9publique parlementaire",
+      "info": "C\u00c5\u0093ur historique de Varsovie reconstruit brique par brique apr\u00c3\u00a8s 1945. Pays de Copernic et de Chopin."
+    },
+    "pt": {
+      "name": "Portugal",
+      "capitale": "Lisbonne",
+      "pop": 10.6,
+      "area": 92212,
+      "langues": "portugais",
+      "monnaie": "euro",
+      "regime": "r\u00c3\u00a9publique parlementaire",
+      "info": "Le Portugal a donn\u00c3\u00a9 son nom... \u00c3\u00a0 un coq : le \u00c2\u00ab galo de Barcelos \u00c2\u00bb, symbole national. Fado et d\u00c3\u00a9couvertes maritimes."
+    },
+    "ro": {
+      "name": "Roumanie",
+      "capitale": "Bucarest",
+      "pop": 19,
+      "area": 238397,
+      "langues": "roumain",
+      "monnaie": "leu roumain",
+      "regime": "r\u00c3\u00a9publique parlementaire",
+      "info": "Le ch\u00c3\u00a2teau de Bran est associ\u00c3\u00a9 \u00c3\u00a0 la l\u00c3\u00a9gende de Dracula. Les Carpates abritent la plus grande population d'ours d'Europe."
+    },
+    "gb": {
+      "name": "Royaume-Uni",
+      "capitale": "Londres",
+      "pop": 68.3,
+      "area": 243610,
+      "langues": "anglais",
+      "monnaie": "livre sterling",
+      "regime": "monarchie parlementaire",
+      "info": "Quatre nations (Angleterre, \u00c3\u0089cosse, pays de Galles, Irlande du Nord). Le m\u00c3\u00a9ridien de Greenwich traverse Londres."
+    },
+    "ru": {
+      "name": "Russie",
+      "capitale": "Moscou",
+      "pop": 144,
+      "area": 17098246,
+      "langues": "russe",
+      "monnaie": "rouble",
+      "regime": "r\u00c3\u00a9publique f\u00c3\u00a9d\u00c3\u00a9rale pr\u00c3\u00a9sidentielle",
+      "info": "Plus grand pays du monde (17 millions de km\u00c2\u00b2), \u00c3\u00a0 cheval sur l'Europe et l'Asie. 11 fuseaux horaires !"
+    },
+    "sm": {
+      "name": "Saint-Marin",
+      "capitale": "Saint-Marin",
+      "pop": 0.034,
+      "area": 61,
+      "langues": "italien",
+      "monnaie": "euro",
+      "regime": "r\u00c3\u00a9publique parlementaire",
+      "info": "Plus ancienne r\u00c3\u00a9publique du monde, fond\u00c3\u00a9e en 301. Deux \u00c2\u00ab capitaines-r\u00c3\u00a9gents \u00c2\u00bb changent tous les six mois."
+    },
+    "rs": {
+      "name": "Serbie",
+      "capitale": "Belgrade",
+      "pop": 6.6,
+      "area": 88361,
+      "langues": "serbe",
+      "monnaie": "dinar",
+      "regime": "r\u00c3\u00a9publique parlementaire",
+      "info": "Belgrade, \u00c2\u00ab ville blanche \u00c2\u00bb, compte plus de 200 jours de f\u00c3\u00aates et de festivals par an. L'Exit festival est mondial."
+    },
+    "sk": {
+      "name": "Slovaquie",
+      "capitale": "Bratislava",
+      "pop": 5.4,
+      "area": 49035,
+      "langues": "slovaque",
+      "monnaie": "euro",
+      "regime": "r\u00c3\u00a9publique parlementaire",
+      "info": "Plus de 6000 grottes. Les Hautes Tatras, ses montagnes, abritent ours, lynx et chamois."
+    },
+    "si": {
+      "name": "Slov\u00c3\u00a9nie",
+      "capitale": "Ljubljana",
+      "pop": 2.1,
+      "area": 20273,
+      "langues": "slov\u00c3\u00a8ne",
+      "monnaie": "euro",
+      "regime": "r\u00c3\u00a9publique parlementaire",
+      "info": "Moins de 2 millions d'habitants, mais 60 % de for\u00c3\u00aats et l'unique for\u00c3\u00aat primaire prot\u00c3\u00a9g\u00c3\u00a9e des Alpes. Pays du miel et du cheval Lipizzan."
+    },
+    "ch": {
+      "name": "Suisse",
+      "capitale": "Berne",
+      "pop": 8.9,
+      "area": 41285,
+      "langues": "allemand, fran\u00c3\u00a7ais, italien, romanche",
+      "monnaie": "franc suisse",
+      "regime": "r\u00c3\u00a9publique f\u00c3\u00a9d\u00c3\u00a9rale (d\u00c3\u00a9mocratie directe)",
+      "info": "Quatre langues nationales et le vote du peuple sur presque tout. Pays des lacs alpins, du Gruy\u00c3\u00a8re et de la fondue."
+    },
+    "se": {
+      "name": "Su\u00c3\u00a8de",
+      "capitale": "Stockholm",
+      "pop": 10.5,
+      "area": 450295,
+      "langues": "su\u00c3\u00a9dois",
+      "monnaie": "couronne su\u00c3\u00a9doise",
+      "regime": "monarchie parlementaire",
+      "info": "Royaume reparti sur des milliers d'\u00c3\u00aeles de l'archipel de Stockholm. Patrie du Nobel, d'ABBA et d'IKEA."
+    },
+    "cz": {
+      "name": "Tch\u00c3\u00a9quie",
+      "capitale": "Prague",
+      "pop": 10.9,
+      "area": 78871,
+      "langues": "tch\u00c3\u00a8que",
+      "monnaie": "couronne tch\u00c3\u00a8que",
+      "regime": "r\u00c3\u00a9publique parlementaire",
+      "info": "Plus haute consommation de bi\u00c3\u00a8re par habitant au monde. Prague, \u00c2\u00ab ville aux cent clochers \u00c2\u00bb, a inspir\u00c3\u00a9 Mozart et Kafka."
+    },
+    "tr": {
+      "name": "T\u00c3\u00bcrkiye",
+      "capitale": "Ankara",
+      "pop": 85.3,
+      "area": 783562,
+      "langues": "turc",
+      "monnaie": "livre turque",
+      "regime": "r\u00c3\u00a9publique pr\u00c3\u00a9sidentielle",
+      "info": "\u00c3\u0080 cheval sur deux continents, avec Istanbul sur deux rives du Bosphore. H\u00c3\u00a9riti\u00c3\u00a8re d'Empires romain, byzantin et ottoman."
+    },
+    "ua": {
+      "name": "Ukraine",
+      "capitale": "Kiev",
+      "pop": 37.9,
+      "area": 603548,
+      "langues": "ukrainien",
+      "monnaie": "hryvnia",
+      "regime": "r\u00c3\u00a9publique semi-pr\u00c3\u00a9sidentielle",
+      "info": "Plus grand pays enti\u00c3\u00a8rement en Europe. \u00c2\u00ab Grenier \u00c3\u00a0 bl\u00c3\u00a9 \u00c2\u00bb du continent, berceau de la fin de l'URSS en 1991."
+    },
+    "va": {
+      "name": "Saint-Si\u00c3\u00a8ge (Vatican)",
+      "capitale": "Cit\u00c3\u00a9 du Vatican",
+      "pop": 0.0008,
+      "area": 0.44,
+      "langues": "latin, italien",
+      "monnaie": "euro",
+      "regime": "monarchie absolue \u00c3\u00a9lective",
+      "info": "Plus petit \u00c3\u0089tat du monde : 44 hectares, ~800 habitants. Ses mus\u00c3\u00a9es abritent la chapelle Sixtine de Michel-Ange."
+    },
+    "al": {
+      "name": "Albanie",
+      "capitale": "Tirana",
+      "pop": 2.8,
+      "area": 28748,
+      "langues": "albanais",
+      "monnaie": "lek",
+      "regime": "r\u00c3\u00a9publique parlementaire",
+      "info": "\u00c2\u00ab Shqip\u00c3\u00abria \u00c2\u00bb signifie le pays des aigles. Isol\u00c3\u00a9e pendant des d\u00c3\u00a9cennies, elle cache des villes ottomanes comme Berat, la \u00c2\u00ab ville aux mille fen\u00c3\u00aatres \u00c2\u00bb."
+    },
+    "ad": {
+      "name": "Andorre",
+      "capitale": "Andorre-la-Vieille",
+      "pop": 0.08,
+      "area": 468,
+      "langues": "catalan",
+      "monnaie": "euro",
+      "regime": "coprincipaut\u00c3\u00a9 parlementaire",
+      "info": "Coprincipaut\u00c3\u00a9 unique : ses chefs d'\u00c3\u0089tat sont... le pr\u00c3\u00a9sident de la France et l'\u00c3\u00a9v\u00c3\u00aaque d'Urgell (Espagne)."
+    }
+  }
+}
