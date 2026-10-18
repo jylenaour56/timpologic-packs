@@ -1,0 +1,1516 @@
+{
+  "category": "departements",
+  "title": "Departements",
+  "challenges": [
+    {
+      "instruction": "Classe par ordre alphabétique.",
+      "sortProperty": "label",
+      "order": "asc"
+    },
+    {
+      "instruction": "Classe par ordre alphabétique inverse.",
+      "sortProperty": "label",
+      "order": "desc"
+    },
+    {
+      "instruction": "Classe du plus petit numero au plus grand.",
+      "sortProperty": "numero",
+      "order": "asc"
+    },
+    {
+      "instruction": "Classe du plus grand numero au plus petit.",
+      "sortProperty": "numero",
+      "order": "desc"
+    },
+    {
+      "instruction": "Classe du departement le plus ancien au plus recent.",
+      "sortProperty": "annee_creation",
+      "order": "asc"
+    },
+    {
+      "instruction": "Classe du departement le plus recent au plus ancien.",
+      "sortProperty": "annee_creation",
+      "order": "desc"
+    },
+    {
+      "instruction": "Classe du moins peuple au plus peuple.",
+      "sortProperty": "population",
+      "order": "asc"
+    },
+    {
+      "instruction": "Classe du plus peuple au moins peuple.",
+      "sortProperty": "population",
+      "order": "desc"
+    },
+    {
+      "instruction": "Classe du plus petit au plus grand territoire.",
+      "sortProperty": "superficie_km2",
+      "order": "asc"
+    },
+    {
+      "instruction": "Classe du plus grand au plus petit territoire.",
+      "sortProperty": "superficie_km2",
+      "order": "desc"
+    },
+    {
+      "instruction": "Classe du chef-lieu A vers Z.",
+      "sortProperty": "chef_lieu",
+      "order": "asc"
+    },
+    {
+      "instruction": "Classe du chef-lieu Z vers A.",
+      "sortProperty": "chef_lieu",
+      "order": "desc"
+    },
+    {
+      "instruction": "Classe de la region A vers Z.",
+      "sortProperty": "region",
+      "order": "asc"
+    },
+    {
+      "instruction": "Classe de la region Z vers A.",
+      "sortProperty": "region",
+      "order": "desc"
+    }
+  ],
+  "cards": [
+    {
+      "id": "departements_Ain",
+      "label": "Ain",
+      "image": "assets/categories/departements/dept_01.webp",
+      "info": "Département Ain (numéro 01), créé en 1790, appartient à la région Auvergne-Rhône-Alpes. Ses habitants sont appelés les Aindinois. Sa préfecture est Bourg-en-Bresse, ses sous-préfectures sont Belley, Gex. Villes principales : Bourg-en-Bresse, Oyonnax, Bellegarde-sur-Valserine. Population : 652 000 habitants · Superficie : 5 762 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Ain | 01 | 1790 | 652 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 1,
+        "annee_creation": 1790,
+        "population": 652000,
+        "superficie_km2": 5762,
+        "chef_lieu": "Bourg-en-Bresse",
+        "region": "Auvergne-Rhône-Alpes"
+      }
+    },
+    {
+      "id": "departements_Aisne",
+      "label": "Aisne",
+      "image": "assets/categories/departements/dept_02.webp",
+      "info": "Département Aisne (numéro 02), créé en 1790, appartient à la région Hauts-de-France. Ses habitants sont appelés les Aisniers. Sa préfecture est Laon, ses sous-préfectures sont Château-Thierry, Saint-Quentin, Soissons, Vervins. Villes principales : Saint-Quentin, Laon, Soissons. Population : 530 000 habitants · Superficie : 7 369 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Aisne | 02 | 1790 | 530 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 2,
+        "annee_creation": 1790,
+        "population": 530000,
+        "superficie_km2": 7369,
+        "chef_lieu": "Laon",
+        "region": "Hauts-de-France"
+      }
+    },
+    {
+      "id": "departements_Allier",
+      "label": "Allier",
+      "image": "assets/categories/departements/dept_03.webp",
+      "info": "Département Allier (numéro 03), créé en 1790, appartient à la région Auvergne-Rhône-Alpes. Ses habitants sont appelés les Bourbonnais. Sa préfecture est Moulins, ses sous-préfectures sont Montluçon, Vichy. Villes principales : Montluçon, Vichy, Moulins. Population : 334 000 habitants · Superficie : 7 340 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Allier | 03 | 1790 | 334 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 3,
+        "annee_creation": 1790,
+        "population": 334000,
+        "superficie_km2": 7340,
+        "chef_lieu": "Moulins",
+        "region": "Auvergne-Rhône-Alpes"
+      }
+    },
+    {
+      "id": "departements_Alpes_de_Haute_Provence",
+      "label": "Alpes-de-Haute-Provence",
+      "image": "assets/categories/departements/dept_04.webp",
+      "info": "Département Alpes-de-Haute-Provence (numéro 04), créé en 1790, appartient à la région Provence-Alpes-Côte d'Azur. Ses habitants sont appelés les Bas-Alpins. Sa préfecture est Digne-les-Bains, ses sous-préfectures sont Barcelonnette, Castellane, Forcalquier. Villes principales : Manosque, Digne-les-Bains, Sisteron. Population : 165 000 habitants · Superficie : 6 925 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Alpes-de-Haute-Provence | 04 | 1790 | 165 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 4,
+        "annee_creation": 1790,
+        "population": 165000,
+        "superficie_km2": 6925,
+        "chef_lieu": "Digne-les-Bains",
+        "region": "Provence-Alpes-Côte d'Azur"
+      }
+    },
+    {
+      "id": "departements_Hautes_Alpes",
+      "label": "Hautes-Alpes",
+      "image": "assets/categories/departements/dept_05.webp",
+      "info": "Département Hautes-Alpes (numéro 05), créé en 1790, appartient à la région Provence-Alpes-Côte d'Azur. Ses habitants sont appelés les Hauts-Alpins. Sa préfecture est Gap, ses sous-préfectures sont Briançon. Villes principales : Gap, Briançon. Population : 141 000 habitants · Superficie : 5 549 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Hautes-Alpes | 05 | 1790 | 141 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 5,
+        "annee_creation": 1790,
+        "population": 141000,
+        "superficie_km2": 5549,
+        "chef_lieu": "Gap",
+        "region": "Provence-Alpes-Côte d'Azur"
+      }
+    },
+    {
+      "id": "departements_Alpes_Maritimes",
+      "label": "Alpes-Maritimes",
+      "image": "assets/categories/departements/dept_06.webp",
+      "info": "Département Alpes-Maritimes (numéro 06), créé en 1860, appartient à la région Provence-Alpes-Côte d'Azur. Ses habitants sont appelés les Maralpins. Sa préfecture est Nice, ses sous-préfectures sont Grasse. Villes principales : Nice, Antibes, Cannes. Population : 1 083 000 habitants · Superficie : 4 299 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Alpes-Maritimes | 06 | 1860 | 1 083 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 6,
+        "annee_creation": 1860,
+        "population": 1083000,
+        "superficie_km2": 4299,
+        "chef_lieu": "Nice",
+        "region": "Provence-Alpes-Côte d'Azur"
+      }
+    },
+    {
+      "id": "departements_Ardeche",
+      "label": "Ardèche",
+      "image": "assets/categories/departements/dept_07.webp",
+      "info": "Département Ardèche (numéro 07), créé en 1790, appartient à la région Auvergne-Rhône-Alpes. Ses habitants sont appelés les Ardéchois. Sa préfecture est Privas, ses sous-préfectures sont Largentière, Tournon-sur-Rhône. Villes principales : Annonay, Aubenas, Privas. Population : 325 000 habitants · Superficie : 5 528 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Ardèche | 07 | 1790 | 325 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 7,
+        "annee_creation": 1790,
+        "population": 325000,
+        "superficie_km2": 5528,
+        "chef_lieu": "Privas",
+        "region": "Auvergne-Rhône-Alpes"
+      }
+    },
+    {
+      "id": "departements_Ardennes",
+      "label": "Ardennes",
+      "image": "assets/categories/departements/dept_08.webp",
+      "info": "Département Ardennes (numéro 08), créé en 1790, appartient à la région Grand Est. Ses habitants sont appelés les Ardennais. Sa préfecture est Charleville-Mézières, ses sous-préfectures sont Rethel, Sedan, Vouziers. Villes principales : Charleville-Mézières, Sedan, Rethel. Population : 161 000 habitants · Superficie : 5 229 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Ardennes | 08 | 1790 | 161 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 8,
+        "annee_creation": 1790,
+        "population": 161000,
+        "superficie_km2": 5229,
+        "chef_lieu": "Charleville-Mézières",
+        "region": "Grand Est"
+      }
+    },
+    {
+      "id": "departements_Ariege",
+      "label": "Ariège",
+      "image": "assets/categories/departements/dept_09.webp",
+      "info": "Département Ariège (numéro 09), créé en 1790, appartient à la région Occitanie. Ses habitants sont appelés les Ariégeois. Sa préfecture est Foix, ses sous-préfectures sont Pamiers, Saint-Girons. Villes principales : Pamiers, Foix, Saint-Girons. Population : 153 000 habitants · Superficie : 4 890 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Ariège | 09 | 1790 | 153 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 9,
+        "annee_creation": 1790,
+        "population": 153000,
+        "superficie_km2": 4890,
+        "chef_lieu": "Foix",
+        "region": "Occitanie"
+      }
+    },
+    {
+      "id": "departements_Aube",
+      "label": "Aube",
+      "image": "assets/categories/departements/dept_10.webp",
+      "info": "Département Aube (numéro 10), créé en 1790, appartient à la région Grand Est. Ses habitants sont appelés les Aubois. Sa préfecture est Troyes, ses sous-préfectures sont Bar-sur-Aube, Nogent-sur-Seine. Villes principales : Troyes, Romilly-sur-Seine, Bar-sur-Aube. Population : 313 000 habitants · Superficie : 6 009 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Aube | 10 | 1790 | 313 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 10,
+        "annee_creation": 1790,
+        "population": 313000,
+        "superficie_km2": 6009,
+        "chef_lieu": "Troyes",
+        "region": "Grand Est"
+      }
+    },
+    {
+      "id": "departements_Aude",
+      "label": "Aude",
+      "image": "assets/categories/departements/dept_11.webp",
+      "info": "Département Aude (numéro 11), créé en 1790, appartient à la région Occitanie. Ses habitants sont appelés les Audois. Sa préfecture est Carcassonne, ses sous-préfectures sont Castelnaudary, Limoux, Narbonne. Villes principales : Narbonne, Carcassonne, Castelnaudary. Population : 372 000 habitants · Superficie : 6 139 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Aude | 11 | 1790 | 372 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 11,
+        "annee_creation": 1790,
+        "population": 372000,
+        "superficie_km2": 6139,
+        "chef_lieu": "Carcassonne",
+        "region": "Occitanie"
+      }
+    },
+    {
+      "id": "departements_Aveyron",
+      "label": "Aveyron",
+      "image": "assets/categories/departements/dept_12.webp",
+      "info": "Département Aveyron (numéro 12), créé en 1790, appartient à la région Occitanie. Ses habitants sont appelés les Aveyronnais. Sa préfecture est Rodez, ses sous-préfectures sont Millau, Villefranche-de-Rouergue. Villes principales : Rodez, Millau, Villefranche-de-Rouergue. Population : 271 000 habitants · Superficie : 8 735 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Aveyron | 12 | 1790 | 271 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 12,
+        "annee_creation": 1790,
+        "population": 271000,
+        "superficie_km2": 8735,
+        "chef_lieu": "Rodez",
+        "region": "Occitanie"
+      }
+    },
+    {
+      "id": "departements_Bouches_du_Rhone",
+      "label": "Bouches-du-Rhône",
+      "image": "assets/categories/departements/dept_13.webp",
+      "info": "Département Bouches-du-Rhône (numéro 13), créé en 1790, appartient à la région Provence-Alpes-Côte d'Azur. Ses habitants sont appelés les Bucco-Rhodaniens. Sa préfecture est Marseille, ses sous-préfectures sont Aix-en-Provence, Arles, Istres. Villes principales : Marseille, Aix-en-Provence, Arles. Population : 2 067 000 habitants · Superficie : 5 087 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Bouches-du-Rhône | 13 | 1790 | 2 067 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 13,
+        "annee_creation": 1790,
+        "population": 2067000,
+        "superficie_km2": 5087,
+        "chef_lieu": "Marseille",
+        "region": "Provence-Alpes-Côte d'Azur"
+      }
+    },
+    {
+      "id": "departements_Calvados",
+      "label": "Calvados",
+      "image": "assets/categories/departements/dept_14.webp",
+      "info": "Département Calvados (numéro 14), créé en 1790, appartient à la région Normandie. Ses habitants sont appelés les Calvadosiens. Sa préfecture est Caen, ses sous-préfectures sont Bayeux, Lisieux, Vire. Villes principales : Caen, Hérouville-Saint-Clair, Lisieux. Population : 696 000 habitants · Superficie : 5 548 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Calvados | 14 | 1790 | 696 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 14,
+        "annee_creation": 1790,
+        "population": 696000,
+        "superficie_km2": 5548,
+        "chef_lieu": "Caen",
+        "region": "Normandie"
+      }
+    },
+    {
+      "id": "departements_Cantal",
+      "label": "Cantal",
+      "image": "assets/categories/departements/dept_15.webp",
+      "info": "Département Cantal (numéro 15), créé en 1790, appartient à la région Auvergne-Rhône-Alpes. Ses habitants sont appelés les Cantalous. Sa préfecture est Aurillac, ses sous-préfectures sont Mauriac, Saint-Flour. Villes principales : Aurillac, Saint-Flour, Mauriac. Population : 145 000 habitants · Superficie : 5 726 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Cantal | 15 | 1790 | 145 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 15,
+        "annee_creation": 1790,
+        "population": 145000,
+        "superficie_km2": 5726,
+        "chef_lieu": "Aurillac",
+        "region": "Auvergne-Rhône-Alpes"
+      }
+    },
+    {
+      "id": "departements_Charente",
+      "label": "Charente",
+      "image": "assets/categories/departements/dept_16.webp",
+      "info": "Département Charente (numéro 16), créé en 1790, appartient à la région Nouvelle-Aquitaine. Ses habitants sont appelés les Charentais. Sa préfecture est Angoulême, ses sous-préfectures sont Cognac, Confolens. Villes principales : Angoulême, Cognac, Jarnac. Population : 359 000 habitants · Superficie : 5 956 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Charente | 16 | 1790 | 359 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 16,
+        "annee_creation": 1790,
+        "population": 359000,
+        "superficie_km2": 5956,
+        "chef_lieu": "Angoulême",
+        "region": "Nouvelle-Aquitaine"
+      }
+    },
+    {
+      "id": "departements_Charente_Maritime",
+      "label": "Charente-Maritime",
+      "image": "assets/categories/departements/dept_17.webp",
+      "info": "Département Charente-Maritime (numéro 17), créé en 1790, appartient à la région Nouvelle-Aquitaine. Ses habitants sont appelés les Charentais-Maritimes. Sa préfecture est La Rochelle, ses sous-préfectures sont Jonzac, Rochefort, Saintes, Saint-Jean-d'Angély. Villes principales : La Rochelle, Rochefort, Saintes. Population : 654 000 habitants · Superficie : 6 864 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Charente-Maritime | 17 | 1790 | 654 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 17,
+        "annee_creation": 1790,
+        "population": 654000,
+        "superficie_km2": 6864,
+        "chef_lieu": "La Rochelle",
+        "region": "Nouvelle-Aquitaine"
+      }
+    },
+    {
+      "id": "departements_Cher",
+      "label": "Cher",
+      "image": "assets/categories/departements/dept_18.webp",
+      "info": "Département Cher (numéro 18), créé en 1790, appartient à la région Centre-Val de Loire. Ses habitants sont appelés les Berrichons. Sa préfecture est Bourges, ses sous-préfectures sont Saint-Amand-Montrond, Vierzon. Villes principales : Bourges, Vierzon, Saint-Amand-Montrond. Population : 292 000 habitants · Superficie : 7 195 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Cher | 18 | 1790 | 292 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 18,
+        "annee_creation": 1790,
+        "population": 292000,
+        "superficie_km2": 7195,
+        "chef_lieu": "Bourges",
+        "region": "Centre-Val de Loire"
+      }
+    },
+    {
+      "id": "departements_Correze",
+      "label": "Corrèze",
+      "image": "assets/categories/departements/dept_19.webp",
+      "info": "Département Corrèze (numéro 19), créé en 1790, appartient à la région Nouvelle-Aquitaine. Ses habitants sont appelés les Corréziens. Sa préfecture est Tulle, ses sous-préfectures sont Brive-la-Gaillarde, Ussel. Villes principales : Brive-la-Gaillarde, Tulle, Ussel. Population : 238 000 habitants · Superficie : 5 857 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Corrèze | 19 | 1790 | 238 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 19,
+        "annee_creation": 1790,
+        "population": 238000,
+        "superficie_km2": 5857,
+        "chef_lieu": "Tulle",
+        "region": "Nouvelle-Aquitaine"
+      }
+    },
+    {
+      "id": "departements_Corse_du_Sud",
+      "label": "Corse-du-Sud",
+      "image": "assets/categories/departements/dept_2a.webp",
+      "info": "Département Corse-du-Sud (numéro 2A), créé en 1976, appartient à la région Corse. Ses habitants sont appelés les Corses du Sud. Sa préfecture est Ajaccio, ses sous-préfectures sont Sartène. Villes principales : Ajaccio, Porto-Vecchio, Sartène. Population : 167 000 habitants · Superficie : 4 080 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Corse-du-Sud | 2A | 1976 | 167 000 hab · ordre de grandeur",
+      "attributes": {
+        "annee_creation": 1976,
+        "population": 167000,
+        "superficie_km2": 4080,
+        "chef_lieu": "Ajaccio",
+        "region": "Corse"
+      }
+    },
+    {
+      "id": "departements_Haute_Corse",
+      "label": "Haute-Corse",
+      "image": "assets/categories/departements/dept_2b.webp",
+      "info": "Département Haute-Corse (numéro 2B), créé en 1976, appartient à la région Corse. Ses habitants sont appelés les Corses du Nord. Sa préfecture est Bastia, ses sous-préfectures sont Calvi, Corte. Villes principales : Bastia, Corte, Calvi. Population : 180 000 habitants · Superficie : 4 600 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Haute-Corse | 2B | 1976 | 180 000 hab · ordre de grandeur",
+      "attributes": {
+        "annee_creation": 1976,
+        "population": 180000,
+        "superficie_km2": 4600,
+        "chef_lieu": "Bastia",
+        "region": "Corse"
+      }
+    },
+    {
+      "id": "departements_Cote_d_Or",
+      "label": "Côte-d'Or",
+      "image": "assets/categories/departements/dept_21.webp",
+      "info": "Département Côte-d'Or (numéro 21), créé en 1790, appartient à la région Bourgogne-Franche-Comté. Ses habitants sont appelés les Côte-d'Oriens. Sa préfecture est Dijon, ses sous-préfectures sont Beaune, Montbard. Villes principales : Dijon, Beaune, Chenôve. Population : 336 000 habitants · Superficie : 8 763 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Côte-d'Or | 21 | 1790 | 336 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 21,
+        "annee_creation": 1790,
+        "population": 336000,
+        "superficie_km2": 8763,
+        "chef_lieu": "Dijon",
+        "region": "Bourgogne-Franche-Comté"
+      }
+    },
+    {
+      "id": "departements_Cotes_d_Armor",
+      "label": "Côtes-d'Armor",
+      "image": "assets/categories/departements/dept_22.webp",
+      "info": "Département Côtes-d'Armor (numéro 22), créé en 1790, appartient à la région Bretagne. Ses habitants sont appelés les Costarmoricains. Sa préfecture est Saint-Brieuc, ses sous-préfectures sont Dinan, Guingamp, Lannion. Villes principales : Saint-Brieuc, Lannion, Dinan. Population : 610 000 habitants · Superficie : 6 878 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Côtes-d'Armor | 22 | 1790 | 610 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 22,
+        "annee_creation": 1790,
+        "population": 610000,
+        "superficie_km2": 6878,
+        "chef_lieu": "Saint-Brieuc",
+        "region": "Bretagne"
+      }
+    },
+    {
+      "id": "departements_Creuse",
+      "label": "Creuse",
+      "image": "assets/categories/departements/dept_23.webp",
+      "info": "Département Creuse (numéro 23), créé en 1790, appartient à la région Nouvelle-Aquitaine. Ses habitants sont appelés les Creusois. Sa préfecture est Guéret, ses sous-préfectures sont Aubusson. Villes principales : Guéret, La Souterraine, Aubusson. Population : 115 000 habitants · Superficie : 5 565 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Creuse | 23 | 1790 | 115 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 23,
+        "annee_creation": 1790,
+        "population": 115000,
+        "superficie_km2": 5565,
+        "chef_lieu": "Guéret",
+        "region": "Nouvelle-Aquitaine"
+      }
+    },
+    {
+      "id": "departements_Dordogne",
+      "label": "Dordogne",
+      "image": "assets/categories/departements/dept_24.webp",
+      "info": "Département Dordogne (numéro 24), créé en 1790, appartient à la région Nouvelle-Aquitaine. Ses habitants sont appelés les Dordognais. Sa préfecture est Périgueux, ses sous-préfectures sont Bergerac, Nontron, Sarlat-la-Canéda. Villes principales : Périgueux, Bergerac, Sarlat-la-Canéda. Population : 417 000 habitants · Superficie : 9 060 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Dordogne | 24 | 1790 | 417 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 24,
+        "annee_creation": 1790,
+        "population": 417000,
+        "superficie_km2": 9060,
+        "chef_lieu": "Périgueux",
+        "region": "Nouvelle-Aquitaine"
+      }
+    },
+    {
+      "id": "departements_Doubs",
+      "label": "Doubs",
+      "image": "assets/categories/departements/dept_25.webp",
+      "info": "Département Doubs (numéro 25), créé en 1790, appartient à la région Bourgogne-Franche-Comté. Ses habitants sont appelés les Doubiens. Sa préfecture est Besançon, ses sous-préfectures sont Montbéliard, Pontarlier. Villes principales : Besançon, Montbéliard, Pontarlier. Population : 546 000 habitants · Superficie : 5 234 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Doubs | 25 | 1790 | 546 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 25,
+        "annee_creation": 1790,
+        "population": 546000,
+        "superficie_km2": 5234,
+        "chef_lieu": "Besançon",
+        "region": "Bourgogne-Franche-Comté"
+      }
+    },
+    {
+      "id": "departements_Drome",
+      "label": "Drôme",
+      "image": "assets/categories/departements/dept_26.webp",
+      "info": "Département Drôme (numéro 26), créé en 1790, appartient à la région Auvergne-Rhône-Alpes. Ses habitants sont appelés les Drômois. Sa préfecture est Valence, ses sous-préfectures sont Die, Montélimar, Nyons. Villes principales : Valence, Montélimar, Romans-sur-Isère. Population : 522 000 habitants · Superficie : 6 532 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Drôme | 26 | 1790 | 522 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 26,
+        "annee_creation": 1790,
+        "population": 522000,
+        "superficie_km2": 6532,
+        "chef_lieu": "Valence",
+        "region": "Auvergne-Rhône-Alpes"
+      }
+    },
+    {
+      "id": "departements_Eure",
+      "label": "Eure",
+      "image": "assets/categories/departements/dept_27.webp",
+      "info": "Département Eure (numéro 27), créé en 1790, appartient à la région Normandie. Ses habitants sont appelés les Eurois. Sa préfecture est Évreux, ses sous-préfectures sont Les Andelys, Bernay. Villes principales : Évreux, Vernon, Bernay. Population : 622 000 habitants · Superficie : 6 040 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Eure | 27 | 1790 | 622 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 27,
+        "annee_creation": 1790,
+        "population": 622000,
+        "superficie_km2": 6040,
+        "chef_lieu": "Évreux",
+        "region": "Normandie"
+      }
+    },
+    {
+      "id": "departements_Eure_et_Loir",
+      "label": "Eure-et-Loir",
+      "image": "assets/categories/departements/dept_28.webp",
+      "info": "Département Eure-et-Loir (numéro 28), créé en 1790, appartient à la région Centre-Val de Loire. Ses habitants sont appelés les Euréliens. Sa préfecture est Chartres, ses sous-préfectures sont Châteaudun, Dreux, Nogent-le-Rotrou. Villes principales : Chartres, Dreux, Châteaudun. Population : 440 000 habitants · Superficie : 5 880 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Eure-et-Loir | 28 | 1790 | 440 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 28,
+        "annee_creation": 1790,
+        "population": 440000,
+        "superficie_km2": 5880,
+        "chef_lieu": "Chartres",
+        "region": "Centre-Val de Loire"
+      }
+    },
+    {
+      "id": "departements_Finistere",
+      "label": "Finistère",
+      "image": "assets/categories/departements/dept_29.webp",
+      "info": "Département Finistère (numéro 29), créé en 1790, appartient à la région Bretagne. Ses habitants sont appelés les Finistériens. Sa préfecture est Quimper, ses sous-préfectures sont Brest, Châteaulin, Morlaix. Villes principales : Brest, Quimper, Concarneau. Population : 929 000 habitants · Superficie : 6 733 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Finistère | 29 | 1790 | 929 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 29,
+        "annee_creation": 1790,
+        "population": 929000,
+        "superficie_km2": 6733,
+        "chef_lieu": "Quimper",
+        "region": "Bretagne"
+      }
+    },
+    {
+      "id": "departements_Gard",
+      "label": "Gard",
+      "image": "assets/categories/departements/dept_30.webp",
+      "info": "Département Gard (numéro 30), créé en 1790, appartient à la région Occitanie. Ses habitants sont appelés les Gardois. Sa préfecture est Nîmes, ses sous-préfectures sont Alès, Le Vigan, Vauvert. Villes principales : Nîmes, Alès, Bagnols-sur-Cèze. Population : 761 000 habitants · Superficie : 5 855 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Gard | 30 | 1790 | 761 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 30,
+        "annee_creation": 1790,
+        "population": 761000,
+        "superficie_km2": 5855,
+        "chef_lieu": "Nîmes",
+        "region": "Occitanie"
+      }
+    },
+    {
+      "id": "departements_Haute_Garonne",
+      "label": "Haute-Garonne",
+      "image": "assets/categories/departements/dept_31.webp",
+      "info": "Département Haute-Garonne (numéro 31), créé en 1790, appartient à la région Occitanie. Ses habitants sont appelés les Garonnais. Sa préfecture est Toulouse, ses sous-préfectures sont Muret, Saint-Gaudens. Villes principales : Toulouse, Colomiers, Muret. Population : 1 409 000 habitants · Superficie : 6 309 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Haute-Garonne | 31 | 1790 | 1 409 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 31,
+        "annee_creation": 1790,
+        "population": 1409000,
+        "superficie_km2": 6309,
+        "chef_lieu": "Toulouse",
+        "region": "Occitanie"
+      }
+    },
+    {
+      "id": "departements_Gers",
+      "label": "Gers",
+      "image": "assets/categories/departements/dept_32.webp",
+      "info": "Département Gers (numéro 32), créé en 1790, appartient à la région Occitanie. Ses habitants sont appelés les Gersois. Sa préfecture est Auch, ses sous-préfectures sont Condom, L'Isle-Jourdain. Villes principales : Auch, Condom, L'Isle-Jourdain. Population : 192 000 habitants · Superficie : 6 257 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Gers | 32 | 1790 | 192 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 32,
+        "annee_creation": 1790,
+        "population": 192000,
+        "superficie_km2": 6257,
+        "chef_lieu": "Auch",
+        "region": "Occitanie"
+      }
+    },
+    {
+      "id": "departements_Gironde",
+      "label": "Gironde",
+      "image": "assets/categories/departements/dept_33.webp",
+      "info": "Département Gironde (numéro 33), créé en 1790, appartient à la région Nouvelle-Aquitaine. Ses habitants sont appelés les Girondins. Sa préfecture est Bordeaux, ses sous-préfectures sont Arcachon, Blaye, Langon, Lesparre-Médoc, Libourne. Villes principales : Bordeaux, Mérignac, Libourne. Population : 1 632 000 habitants · Superficie : 9 999 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Gironde | 33 | 1790 | 1 632 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 33,
+        "annee_creation": 1790,
+        "population": 1632000,
+        "superficie_km2": 9999,
+        "chef_lieu": "Bordeaux",
+        "region": "Nouvelle-Aquitaine"
+      }
+    },
+    {
+      "id": "departements_Herault",
+      "label": "Hérault",
+      "image": "assets/categories/departements/dept_34.webp",
+      "info": "Département Hérault (numéro 34), créé en 1790, appartient à la région Occitanie. Ses habitants sont appelés les Héraultais. Sa préfecture est Montpellier, ses sous-préfectures sont Béziers, Lodève. Villes principales : Montpellier, Béziers, Sète. Population : 1 179 000 habitants · Superficie : 6 224 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Hérault | 34 | 1790 | 1 179 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 34,
+        "annee_creation": 1790,
+        "population": 1179000,
+        "superficie_km2": 6224,
+        "chef_lieu": "Montpellier",
+        "region": "Occitanie"
+      }
+    },
+    {
+      "id": "departements_Ille_et_Vilaine",
+      "label": "Ille-et-Vilaine",
+      "image": "assets/categories/departements/dept_35.webp",
+      "info": "Département Ille-et-Vilaine (numéro 35), créé en 1790, appartient à la région Bretagne. Ses habitants sont appelés les Bretilliens. Sa préfecture est Rennes, ses sous-préfectures sont Fougères, Redon, Saint-Malo, Vitré. Villes principales : Rennes, Saint-Malo, Fougères. Population : 1 118 000 habitants · Superficie : 6 775 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Ille-et-Vilaine | 35 | 1790 | 1 118 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 35,
+        "annee_creation": 1790,
+        "population": 1118000,
+        "superficie_km2": 6775,
+        "chef_lieu": "Rennes",
+        "region": "Bretagne"
+      }
+    },
+    {
+      "id": "departements_Indre",
+      "label": "Indre",
+      "image": "assets/categories/departements/dept_36.webp",
+      "info": "Département Indre (numéro 36), créé en 1790, appartient à la région Centre-Val de Loire. Ses habitants sont appelés les Indrois. Sa préfecture est Châteauroux, ses sous-préfectures sont Le Blanc, La Châtre, Issoudun. Villes principales : Châteauroux, Issoudun, Le Blanc. Population : 217 000 habitants · Superficie : 6 791 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Indre | 36 | 1790 | 217 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 36,
+        "annee_creation": 1790,
+        "population": 217000,
+        "superficie_km2": 6791,
+        "chef_lieu": "Châteauroux",
+        "region": "Centre-Val de Loire"
+      }
+    },
+    {
+      "id": "departements_Indre_et_Loire",
+      "label": "Indre-et-Loire",
+      "image": "assets/categories/departements/dept_37.webp",
+      "info": "Département Indre-et-Loire (numéro 37), créé en 1790, appartient à la région Centre-Val de Loire. Ses habitants sont appelés les Tourangeaux. Sa préfecture est Tours, ses sous-préfectures sont Chinon, Loches. Villes principales : Tours, Joué-lès-Tours, Amboise. Population : 619 000 habitants · Superficie : 6 338 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Indre-et-Loire | 37 | 1790 | 619 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 37,
+        "annee_creation": 1790,
+        "population": 619000,
+        "superficie_km2": 6338,
+        "chef_lieu": "Tours",
+        "region": "Centre-Val de Loire"
+      }
+    },
+    {
+      "id": "departements_Isere",
+      "label": "Isère",
+      "image": "assets/categories/departements/dept_38.webp",
+      "info": "Département Isère (numéro 38), créé en 1790, appartient à la région Auvergne-Rhône-Alpes. Ses habitants sont appelés les Isérois. Sa préfecture est Grenoble, ses sous-préfectures sont La Tour-du-Pin, Vienne. Villes principales : Grenoble, Vienne, Échirolles. Population : 1 300 000 habitants · Superficie : 7 431 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Isère | 38 | 1790 | 1 300 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 38,
+        "annee_creation": 1790,
+        "population": 1300000,
+        "superficie_km2": 7431,
+        "chef_lieu": "Grenoble",
+        "region": "Auvergne-Rhône-Alpes"
+      }
+    },
+    {
+      "id": "departements_Jura",
+      "label": "Jura",
+      "image": "assets/categories/departements/dept_39.webp",
+      "info": "Département Jura (numéro 39), créé en 1790, appartient à la région Bourgogne-Franche-Comté. Ses habitants sont appelés les Jurassiens. Sa préfecture est Lons-le-Saunier, ses sous-préfectures sont Dole, Saint-Claude. Villes principales : Dole, Lons-le-Saunier, Saint-Claude. Population : 268 000 habitants · Superficie : 4 999 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Jura | 39 | 1790 | 268 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 39,
+        "annee_creation": 1790,
+        "population": 268000,
+        "superficie_km2": 4999,
+        "chef_lieu": "Lons-le-Saunier",
+        "region": "Bourgogne-Franche-Comté"
+      }
+    },
+    {
+      "id": "departements_Landes",
+      "label": "Landes",
+      "image": "assets/categories/departements/dept_40.webp",
+      "info": "Département Landes (numéro 40), créé en 1790, appartient à la région Nouvelle-Aquitaine. Ses habitants sont appelés les Landais. Sa préfecture est Mont-de-Marsan, ses sous-préfectures sont Dax. Villes principales : Mont-de-Marsan, Dax, Biscarrosse. Population : 423 000 habitants · Superficie : 9 243 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Landes | 40 | 1790 | 423 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 40,
+        "annee_creation": 1790,
+        "population": 423000,
+        "superficie_km2": 9243,
+        "chef_lieu": "Mont-de-Marsan",
+        "region": "Nouvelle-Aquitaine"
+      }
+    },
+    {
+      "id": "departements_Loir_et_Cher",
+      "label": "Loir-et-Cher",
+      "image": "assets/categories/departements/dept_41.webp",
+      "info": "Département Loir-et-Cher (numéro 41), créé en 1790, appartient à la région Centre-Val de Loire. Ses habitants sont appelés les Loir-et-Chériens. Sa préfecture est Blois, ses sous-préfectures sont Romorantin-Lanthenay, Vendôme. Villes principales : Blois, Romorantin-Lanthenay, Vendôme. Population : 340 000 habitants · Superficie : 6 343 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Loir-et-Cher | 41 | 1790 | 340 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 41,
+        "annee_creation": 1790,
+        "population": 340000,
+        "superficie_km2": 6343,
+        "chef_lieu": "Blois",
+        "region": "Centre-Val de Loire"
+      }
+    },
+    {
+      "id": "departements_Loire",
+      "label": "Loire",
+      "image": "assets/categories/departements/dept_42.webp",
+      "info": "Département Loire (numéro 42), créé en 1790, appartient à la région Auvergne-Rhône-Alpes. Ses habitants sont appelés les Ligériens. Sa préfecture est Saint-Étienne, ses sous-préfectures sont Montbrison, Roanne. Villes principales : Saint-Étienne, Roanne, Saint-Chamond. Population : 770 000 habitants · Superficie : 4 781 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Loire | 42 | 1790 | 770 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 42,
+        "annee_creation": 1790,
+        "population": 770000,
+        "superficie_km2": 4781,
+        "chef_lieu": "Saint-Étienne",
+        "region": "Auvergne-Rhône-Alpes"
+      }
+    },
+    {
+      "id": "departements_Haute_Loire",
+      "label": "Haute-Loire",
+      "image": "assets/categories/departements/dept_43.webp",
+      "info": "Département Haute-Loire (numéro 43), créé en 1790, appartient à la région Auvergne-Rhône-Alpes. Ses habitants sont appelés les Altiligériens. Sa préfecture est Le Puy-en-Velay, ses sous-préfectures sont Brioude, Yssingeaux. Villes principales : Le Puy-en-Velay, Monistrol-sur-Loire, Yssingeaux. Population : 228 000 habitants · Superficie : 4 977 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Haute-Loire | 43 | 1790 | 228 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 43,
+        "annee_creation": 1790,
+        "population": 228000,
+        "superficie_km2": 4977,
+        "chef_lieu": "Le Puy-en-Velay",
+        "region": "Auvergne-Rhône-Alpes"
+      }
+    },
+    {
+      "id": "departements_Loire_Atlantique",
+      "label": "Loire-Atlantique",
+      "image": "assets/categories/departements/dept_44.webp",
+      "info": "Département Loire-Atlantique (numéro 44), créé en 1790, appartient à la région Pays de la Loire. Ses habitants sont appelés les Loirains. Sa préfecture est Nantes, ses sous-préfectures sont Ancenis, Châteaubriant, Saint-Nazaire. Villes principales : Nantes, Saint-Nazaire, Rezé. Population : 1 449 000 habitants · Superficie : 6 815 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Loire-Atlantique | 44 | 1790 | 1 449 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 44,
+        "annee_creation": 1790,
+        "population": 1449000,
+        "superficie_km2": 6815,
+        "chef_lieu": "Nantes",
+        "region": "Pays de la Loire"
+      }
+    },
+    {
+      "id": "departements_Loiret",
+      "label": "Loiret",
+      "image": "assets/categories/departements/dept_45.webp",
+      "info": "Département Loiret (numéro 45), créé en 1790, appartient à la région Centre-Val de Loire. Ses habitants sont appelés les Loirétains. Sa préfecture est Orléans, ses sous-préfectures sont Montargis, Pithiviers. Villes principales : Orléans, Montargis, Saran. Population : 688 000 habitants · Superficie : 6 775 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Loiret | 45 | 1790 | 688 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 45,
+        "annee_creation": 1790,
+        "population": 688000,
+        "superficie_km2": 6775,
+        "chef_lieu": "Orléans",
+        "region": "Centre-Val de Loire"
+      }
+    },
+    {
+      "id": "departements_Lot",
+      "label": "Lot",
+      "image": "assets/categories/departements/dept_46.webp",
+      "info": "Département Lot (numéro 46), créé en 1790, appartient à la région Occitanie. Ses habitants sont appelés les Lotois. Sa préfecture est Cahors, ses sous-préfectures sont Figeac, Gourdon. Villes principales : Cahors, Figeac, Gourdon. Population : 178 000 habitants · Superficie : 5 340 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Lot | 46 | 1790 | 178 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 46,
+        "annee_creation": 1790,
+        "population": 178000,
+        "superficie_km2": 5340,
+        "chef_lieu": "Cahors",
+        "region": "Occitanie"
+      }
+    },
+    {
+      "id": "departements_Lot_et_Garonne",
+      "label": "Lot-et-Garonne",
+      "image": "assets/categories/departements/dept_47.webp",
+      "info": "Département Lot-et-Garonne (numéro 47), créé en 1790, appartient à la région Nouvelle-Aquitaine. Ses habitants sont appelés les Lot-et-Garonnais. Sa préfecture est Agen, ses sous-préfectures sont Marmande, Villeneuve-sur-Lot. Villes principales : Agen, Villeneuve-sur-Lot, Marmande. Population : 336 000 habitants · Superficie : 5 361 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Lot-et-Garonne | 47 | 1790 | 336 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 47,
+        "annee_creation": 1790,
+        "population": 336000,
+        "superficie_km2": 5361,
+        "chef_lieu": "Agen",
+        "region": "Nouvelle-Aquitaine"
+      }
+    },
+    {
+      "id": "departements_Lozere",
+      "label": "Lozère",
+      "image": "assets/categories/departements/dept_48.webp",
+      "info": "Département Lozère (numéro 48), créé en 1790, appartient à la région Occitanie. Ses habitants sont appelés les Lozériens. Sa préfecture est Mende, ses sous-préfectures sont Florac. Villes principales : Mende, Marvejols, Langogne. Population : 76 000 habitants · Superficie : 5 167 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Lozère | 48 | 1790 | 76 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 48,
+        "annee_creation": 1790,
+        "population": 76000,
+        "superficie_km2": 5167,
+        "chef_lieu": "Mende",
+        "region": "Occitanie"
+      }
+    },
+    {
+      "id": "departements_Maine_et_Loire",
+      "label": "Maine-et-Loire",
+      "image": "assets/categories/departements/dept_49.webp",
+      "info": "Département Maine-et-Loire (numéro 49), créé en 1790, appartient à la région Pays de la Loire. Ses habitants sont appelés les Angevins. Sa préfecture est Angers, ses sous-préfectures sont Cholet, Saumur, Segré-en-Anjou Bleu. Villes principales : Angers, Cholet, Saumur. Population : 834 000 habitants · Superficie : 7 166 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Maine-et-Loire | 49 | 1790 | 834 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 49,
+        "annee_creation": 1790,
+        "population": 834000,
+        "superficie_km2": 7166,
+        "chef_lieu": "Angers",
+        "region": "Pays de la Loire"
+      }
+    },
+    {
+      "id": "departements_Manche",
+      "label": "Manche",
+      "image": "assets/categories/departements/dept_50.webp",
+      "info": "Département Manche (numéro 50), créé en 1790, appartient à la région Normandie. Ses habitants sont appelés les Manchois. Sa préfecture est Saint-Lô, ses sous-préfectures sont Avranches, Cherbourg-en-Cotentin, Coutances. Villes principales : Cherbourg-en-Cotentin, Saint-Lô, Granville. Population : 499 000 habitants · Superficie : 5 934 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Manche | 50 | 1790 | 499 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 50,
+        "annee_creation": 1790,
+        "population": 499000,
+        "superficie_km2": 5934,
+        "chef_lieu": "Saint-Lô",
+        "region": "Normandie"
+      }
+    },
+    {
+      "id": "departements_Marne",
+      "label": "Marne",
+      "image": "assets/categories/departements/dept_51.webp",
+      "info": "Département Marne (numéro 51), créé en 1790, appartient à la région Grand Est. Ses habitants sont appelés les Marnais. Sa préfecture est Châlons-en-Champagne, ses sous-préfectures sont Épernay, Reims, Vitry-le-François. Villes principales : Reims, Châlons-en-Champagne, Épernay. Population : 566 000 habitants · Superficie : 8 162 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Marne | 51 | 1790 | 566 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 51,
+        "annee_creation": 1790,
+        "population": 566000,
+        "superficie_km2": 8162,
+        "chef_lieu": "Châlons-en-Champagne",
+        "region": "Grand Est"
+      }
+    },
+    {
+      "id": "departements_Haute_Marne",
+      "label": "Haute-Marne",
+      "image": "assets/categories/departements/dept_52.webp",
+      "info": "Département Haute-Marne (numéro 52), créé en 1790, appartient à la région Grand Est. Ses habitants sont appelés les Haut-Marnais. Sa préfecture est Chaumont, ses sous-préfectures sont Langres, Saint-Dizier. Villes principales : Saint-Dizier, Chaumont, Langres. Population : 173 000 habitants · Superficie : 6 211 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Haute-Marne | 52 | 1790 | 173 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 52,
+        "annee_creation": 1790,
+        "population": 173000,
+        "superficie_km2": 6211,
+        "chef_lieu": "Chaumont",
+        "region": "Grand Est"
+      }
+    },
+    {
+      "id": "departements_Mayenne",
+      "label": "Mayenne",
+      "image": "assets/categories/departements/dept_53.webp",
+      "info": "Département Mayenne (numéro 53), créé en 1790, appartient à la région Pays de la Loire. Ses habitants sont appelés les Mayennais. Sa préfecture est Laval, ses sous-préfectures sont Château-Gontier, Mayenne. Villes principales : Laval, Mayenne, Château-Gontier. Population : 315 000 habitants · Superficie : 5 176 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Mayenne | 53 | 1790 | 315 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 53,
+        "annee_creation": 1790,
+        "population": 315000,
+        "superficie_km2": 5176,
+        "chef_lieu": "Laval",
+        "region": "Pays de la Loire"
+      }
+    },
+    {
+      "id": "departements_Meurthe_et_Moselle",
+      "label": "Meurthe-et-Moselle",
+      "image": "assets/categories/departements/dept_54.webp",
+      "info": "Département Meurthe-et-Moselle (numéro 54), créé en 1790, appartient à la région Grand Est. Ses habitants sont appelés les Meurthois. Sa préfecture est Nancy, ses sous-préfectures sont Briey, Lunéville, Toul. Villes principales : Nancy, Lunéville, Toul. Population : 734 000 habitants · Superficie : 5 246 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Meurthe-et-Moselle | 54 | 1790 | 734 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 54,
+        "annee_creation": 1790,
+        "population": 734000,
+        "superficie_km2": 5246,
+        "chef_lieu": "Nancy",
+        "region": "Grand Est"
+      }
+    },
+    {
+      "id": "departements_Meuse",
+      "label": "Meuse",
+      "image": "assets/categories/departements/dept_55.webp",
+      "info": "Département Meuse (numéro 55), créé en 1790, appartient à la région Grand Est. Ses habitants sont appelés les Meusiens. Sa préfecture est Bar-le-Duc, ses sous-préfectures sont Commercy, Verdun. Villes principales : Bar-le-Duc, Verdun, Commercy. Population : 190 000 habitants · Superficie : 6 211 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Meuse | 55 | 1790 | 190 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 55,
+        "annee_creation": 1790,
+        "population": 190000,
+        "superficie_km2": 6211,
+        "chef_lieu": "Bar-le-Duc",
+        "region": "Grand Est"
+      }
+    },
+    {
+      "id": "departements_Morbihan",
+      "label": "Morbihan",
+      "image": "assets/categories/departements/dept_56.webp",
+      "info": "Département Morbihan (numéro 56), créé en 1790, appartient à la région Bretagne. Ses habitants sont appelés les Morbihannais. Sa préfecture est Vannes, ses sous-préfectures sont Lorient, Pontivy. Villes principales : Vannes, Lorient, Pontivy. Population : 772 000 habitants · Superficie : 6 790 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Morbihan | 56 | 1790 | 772 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 56,
+        "annee_creation": 1790,
+        "population": 772000,
+        "superficie_km2": 6790,
+        "chef_lieu": "Vannes",
+        "region": "Bretagne"
+      }
+    },
+    {
+      "id": "departements_Moselle",
+      "label": "Moselle",
+      "image": "assets/categories/departements/dept_57.webp",
+      "info": "Département Moselle (numéro 57), créé en 1790, appartient à la région Grand Est. Ses habitants sont appelés les Mosellans. Sa préfecture est Metz, ses sous-préfectures sont Boulay-Moselle, Château-Salins, Forbach, Sarrebourg, Sarreguemines, Thionville. Villes principales : Metz, Thionville, Forbach. Population : 1 043 000 habitants · Superficie : 6 216 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Moselle | 57 | 1790 | 1 043 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 57,
+        "annee_creation": 1790,
+        "population": 1043000,
+        "superficie_km2": 6216,
+        "chef_lieu": "Metz",
+        "region": "Grand Est"
+      }
+    },
+    {
+      "id": "departements_Nievre",
+      "label": "Nièvre",
+      "image": "assets/categories/departements/dept_58.webp",
+      "info": "Département Nièvre (numéro 58), créé en 1790, appartient à la région Bourgogne-Franche-Comté. Ses habitants sont appelés les Nivernais. Sa préfecture est Nevers, ses sous-préfectures sont Château-Chinon, Clamecy, Cosne-Cours-sur-Loire, Decize. Villes principales : Nevers, Cosne-Cours-sur-Loire, Clamecy. Population : 205 000 habitants · Superficie : 6 817 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Nièvre | 58 | 1790 | 205 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 58,
+        "annee_creation": 1790,
+        "population": 205000,
+        "superficie_km2": 6817,
+        "chef_lieu": "Nevers",
+        "region": "Bourgogne-Franche-Comté"
+      }
+    },
+    {
+      "id": "departements_Nord",
+      "label": "Nord",
+      "image": "assets/categories/departements/dept_59.webp",
+      "info": "Département Nord (numéro 59), créé en 1790, appartient à la région Hauts-de-France. Ses habitants sont appelés les Nordistes. Sa préfecture est Lille, ses sous-préfectures sont Avesnes-sur-Helpe, Cambrai, Douai, Dunkerque, Valenciennes. Villes principales : Lille, Dunkerque, Roubaix. Population : 2 636 000 habitants · Superficie : 5 795 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Nord | 59 | 1790 | 2 636 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 59,
+        "annee_creation": 1790,
+        "population": 2636000,
+        "superficie_km2": 5795,
+        "chef_lieu": "Lille",
+        "region": "Hauts-de-France"
+      }
+    },
+    {
+      "id": "departements_Oise",
+      "label": "Oise",
+      "image": "assets/categories/departements/dept_60.webp",
+      "info": "Département Oise (numéro 60), créé en 1790, appartient à la région Hauts-de-France. Ses habitants sont appelés les Oisiens. Sa préfecture est Beauvais, ses sous-préfectures sont Clermont, Compiègne, Senlis. Villes principales : Beauvais, Compiègne, Creil. Population : 824 000 habitants · Superficie : 5 860 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Oise | 60 | 1790 | 824 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 60,
+        "annee_creation": 1790,
+        "population": 824000,
+        "superficie_km2": 5860,
+        "chef_lieu": "Beauvais",
+        "region": "Hauts-de-France"
+      }
+    },
+    {
+      "id": "departements_Orne",
+      "label": "Orne",
+      "image": "assets/categories/departements/dept_61.webp",
+      "info": "Département Orne (numéro 61), créé en 1790, appartient à la région Normandie. Ses habitants sont appelés les Ornais. Sa préfecture est Alençon, ses sous-préfectures sont Argentan, Mortagne-au-Perche. Villes principales : Alençon, Flers, Argentan. Population : 278 000 habitants · Superficie : 6 103 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Orne | 61 | 1790 | 278 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 61,
+        "annee_creation": 1790,
+        "population": 278000,
+        "superficie_km2": 6103,
+        "chef_lieu": "Alençon",
+        "region": "Normandie"
+      }
+    },
+    {
+      "id": "departements_Pas_de_Calais",
+      "label": "Pas-de-Calais",
+      "image": "assets/categories/departements/dept_62.webp",
+      "info": "Département Pas-de-Calais (numéro 62), créé en 1790, appartient à la région Hauts-de-France. Ses habitants sont appelés les Pas-de-Calaisiens. Sa préfecture est Arras, ses sous-préfectures sont Béthune, Boulogne-sur-Mer, Calais, Lens, Montreuil, Saint-Omer. Villes principales : Arras, Calais, Boulogne-sur-Mer. Population : 1 483 000 habitants · Superficie : 6 671 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Pas-de-Calais | 62 | 1790 | 1 483 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 62,
+        "annee_creation": 1790,
+        "population": 1483000,
+        "superficie_km2": 6671,
+        "chef_lieu": "Arras",
+        "region": "Hauts-de-France"
+      }
+    },
+    {
+      "id": "departements_Puy_de_Dome",
+      "label": "Puy-de-Dôme",
+      "image": "assets/categories/departements/dept_63.webp",
+      "info": "Département Puy-de-Dôme (numéro 63), créé en 1790, appartient à la région Auvergne-Rhône-Alpes. Ses habitants sont appelés les Puydômois. Sa préfecture est Clermont-Ferrand, ses sous-préfectures sont Ambert, Issoire, Riom, Thiers. Villes principales : Clermont-Ferrand, Riom, Issoire. Population : 671 000 habitants · Superficie : 7 970 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Puy-de-Dôme | 63 | 1790 | 671 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 63,
+        "annee_creation": 1790,
+        "population": 671000,
+        "superficie_km2": 7970,
+        "chef_lieu": "Clermont-Ferrand",
+        "region": "Auvergne-Rhône-Alpes"
+      }
+    },
+    {
+      "id": "departements_Pyrenees_Atlantiques",
+      "label": "Pyrénées-Atlantiques",
+      "image": "assets/categories/departements/dept_64.webp",
+      "info": "Département Pyrénées-Atlantiques (numéro 64), créé en 1790, appartient à la région Nouvelle-Aquitaine. Ses habitants sont appelés les Basco-Béarnais. Sa préfecture est Pau, ses sous-préfectures sont Bayonne, Oloron-Sainte-Marie. Villes principales : Pau, Bayonne, Biarritz. Population : 688 000 habitants · Superficie : 7 645 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Pyrénées-Atlantiques | 64 | 1790 | 688 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 64,
+        "annee_creation": 1790,
+        "population": 688000,
+        "superficie_km2": 7645,
+        "chef_lieu": "Pau",
+        "region": "Nouvelle-Aquitaine"
+      }
+    },
+    {
+      "id": "departements_Hautes_Pyrenees",
+      "label": "Hautes-Pyrénées",
+      "image": "assets/categories/departements/dept_65.webp",
+      "info": "Département Hautes-Pyrénées (numéro 65), créé en 1790, appartient à la région Occitanie. Ses habitants sont appelés les Haut-Pyrénéens. Sa préfecture est Tarbes, ses sous-préfectures sont Argelès-Gazost, Bagnères-de-Bigorre. Villes principales : Tarbes, Lourdes, Bagnères-de-Bigorre. Population : 232 000 habitants · Superficie : 4 501 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Hautes-Pyrénées | 65 | 1790 | 232 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 65,
+        "annee_creation": 1790,
+        "population": 232000,
+        "superficie_km2": 4501,
+        "chef_lieu": "Tarbes",
+        "region": "Occitanie"
+      }
+    },
+    {
+      "id": "departements_Pyrenees_Orientales",
+      "label": "Pyrénées-Orientales",
+      "image": "assets/categories/departements/dept_66.webp",
+      "info": "Département Pyrénées-Orientales (numéro 66), créé en 1790, appartient à la région Occitanie. Ses habitants sont appelés les Pyrénaliens. Sa préfecture est Perpignan, ses sous-préfectures sont Céret, Prades. Villes principales : Perpignan, Canet-en-Roussillon, Prades. Population : 485 000 habitants · Superficie : 1 590 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Pyrénées-Orientales | 66 | 1790 | 485 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 66,
+        "annee_creation": 1790,
+        "population": 485000,
+        "superficie_km2": 1590,
+        "chef_lieu": "Perpignan",
+        "region": "Occitanie"
+      }
+    },
+    {
+      "id": "departements_Bas_Rhin",
+      "label": "Bas-Rhin",
+      "image": "assets/categories/departements/dept_67.webp",
+      "info": "Département Bas-Rhin (numéro 67), créé en 1790, appartient à la région Grand Est. Ses habitants sont appelés les Bas-Rhinois. Sa préfecture est Strasbourg, ses sous-préfectures sont Haguenau, Molsheim, Saverne, Sélestat, Wissembourg. Villes principales : Strasbourg, Haguenau, Sélestat. Population : 1 145 000 habitants · Superficie : 4 755 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Bas-Rhin | 67 | 1790 | 1 145 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 67,
+        "annee_creation": 1790,
+        "population": 1145000,
+        "superficie_km2": 4755,
+        "chef_lieu": "Strasbourg",
+        "region": "Grand Est"
+      }
+    },
+    {
+      "id": "departements_Haut_Rhin",
+      "label": "Haut-Rhin",
+      "image": "assets/categories/departements/dept_68.webp",
+      "info": "Département Haut-Rhin (numéro 68), créé en 1790, appartient à la région Grand Est. Ses habitants sont appelés les Haut-Rhinois. Sa préfecture est Colmar, ses sous-préfectures sont Altkirch, Mulhouse, Thann-Guebwiller. Villes principales : Mulhouse, Colmar, Saint-Louis. Population : 769 000 habitants · Superficie : 3 525 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Haut-Rhin | 68 | 1790 | 769 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 68,
+        "annee_creation": 1790,
+        "population": 769000,
+        "superficie_km2": 3525,
+        "chef_lieu": "Colmar",
+        "region": "Grand Est"
+      }
+    },
+    {
+      "id": "departements_Rhone",
+      "label": "Rhône",
+      "image": "assets/categories/departements/dept_69.webp",
+      "info": "Département Rhône (numéro 69), créé en 1790, appartient à la région Auvergne-Rhône-Alpes. Ses habitants sont appelés les Rhodaniens. Sa préfecture est Lyon, ses sous-préfectures sont Villefranche-sur-Saône. Villes principales : Lyon, Villefranche-sur-Saône, Caluire-et-Cuire. Population : 445 000 habitants · Superficie : 2 313 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Rhône | 69 | 1790 | 445 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 69,
+        "annee_creation": 1790,
+        "population": 445000,
+        "superficie_km2": 2313,
+        "chef_lieu": "Lyon",
+        "region": "Auvergne-Rhône-Alpes"
+      }
+    },
+    {
+      "id": "departements_Haute_Saone",
+      "label": "Haute-Saône",
+      "image": "assets/categories/departements/dept_70.webp",
+      "info": "Département Haute-Saône (numéro 70), créé en 1790, appartient à la région Bourgogne-Franche-Comté. Ses habitants sont appelés les Haut-Saônois. Sa préfecture est Vesoul, ses sous-préfectures sont Gray, Lure. Villes principales : Vesoul, Héricourt, Lure. Population : 226 000 habitants · Superficie : 5 360 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Haute-Saône | 70 | 1790 | 226 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 70,
+        "annee_creation": 1790,
+        "population": 226000,
+        "superficie_km2": 5360,
+        "chef_lieu": "Vesoul",
+        "region": "Bourgogne-Franche-Comté"
+      }
+    },
+    {
+      "id": "departements_Saone_et_Loire",
+      "label": "Saône-et-Loire",
+      "image": "assets/categories/departements/dept_71.webp",
+      "info": "Département Saône-et-Loire (numéro 71), créé en 1790, appartient à la région Bourgogne-Franche-Comté. Ses habitants sont appelés les Saône-et-Loiriens. Sa préfecture est Mâcon, ses sous-préfectures sont Autun, Chalon-sur-Saône, Charolles, Louhans, Paray-le-Monial. Villes principales : Chalon-sur-Saône, Mâcon, Le Creusot. Population : 548 000 habitants · Superficie : 8 575 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Saône-et-Loire | 71 | 1790 | 548 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 71,
+        "annee_creation": 1790,
+        "population": 548000,
+        "superficie_km2": 8575,
+        "chef_lieu": "Mâcon",
+        "region": "Bourgogne-Franche-Comté"
+      }
+    },
+    {
+      "id": "departements_Sarthe",
+      "label": "Sarthe",
+      "image": "assets/categories/departements/dept_72.webp",
+      "info": "Département Sarthe (numéro 72), créé en 1790, appartient à la région Pays de la Loire. Ses habitants sont appelés les Sarthois. Sa préfecture est Le Mans, ses sous-préfectures sont La Flèche, Mamers. Villes principales : Le Mans, La Flèche, Sablé-sur-Sarthe. Population : 566 000 habitants · Superficie : 6 206 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Sarthe | 72 | 1790 | 566 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 72,
+        "annee_creation": 1790,
+        "population": 566000,
+        "superficie_km2": 6206,
+        "chef_lieu": "Le Mans",
+        "region": "Pays de la Loire"
+      }
+    },
+    {
+      "id": "departements_Savoie",
+      "label": "Savoie",
+      "image": "assets/categories/departements/dept_73.webp",
+      "info": "Département Savoie (numéro 73), créé en 1860, appartient à la région Auvergne-Rhône-Alpes. Ses habitants sont appelés les Savoyards. Sa préfecture est Chambéry, ses sous-préfectures sont Albertville, Saint-Jean-de-Maurienne. Villes principales : Chambéry, Aix-les-Bains, Albertville. Population : 437 000 habitants · Superficie : 6 028 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Savoie | 73 | 1860 | 437 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 73,
+        "annee_creation": 1860,
+        "population": 437000,
+        "superficie_km2": 6028,
+        "chef_lieu": "Chambéry",
+        "region": "Auvergne-Rhône-Alpes"
+      }
+    },
+    {
+      "id": "departements_Haute_Savoie",
+      "label": "Haute-Savoie",
+      "image": "assets/categories/departements/dept_74.webp",
+      "info": "Département Haute-Savoie (numéro 74), créé en 1860, appartient à la région Auvergne-Rhône-Alpes. Ses habitants sont appelés les Haut-Savoyards. Sa préfecture est Annecy, ses sous-préfectures sont Bonneville, Saint-Julien-en-Genevois, Thonon-les-Bains. Villes principales : Annecy, Thonon-les-Bains, Annemasse. Population : 813 000 habitants · Superficie : 4 388 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Haute-Savoie | 74 | 1860 | 813 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 74,
+        "annee_creation": 1860,
+        "population": 813000,
+        "superficie_km2": 4388,
+        "chef_lieu": "Annecy",
+        "region": "Auvergne-Rhône-Alpes"
+      }
+    },
+    {
+      "id": "departements_Paris",
+      "label": "Paris",
+      "image": "assets/categories/departements/dept_75.webp",
+      "info": "Département Paris (numéro 75), créé en 1968, appartient à la région Île-de-France. Ses habitants sont appelés les Parisiens. Sa préfecture est Paris. Population : 2 133 000 habitants · Superficie : 105 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Paris | 75 | 1968 | 2 133 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 75,
+        "annee_creation": 1968,
+        "population": 2133000,
+        "superficie_km2": 105,
+        "chef_lieu": "Paris",
+        "region": "Île-de-France"
+      }
+    },
+    {
+      "id": "departements_Seine_Maritime",
+      "label": "Seine-Maritime",
+      "image": "assets/categories/departements/dept_76.webp",
+      "info": "Département Seine-Maritime (numéro 76), créé en 1790, appartient à la région Normandie. Ses habitants sont appelés les Seinomarins. Sa préfecture est Rouen, ses sous-préfectures sont Dieppe, Le Havre. Villes principales : Le Havre, Rouen, Dieppe. Population : 1 271 000 habitants · Superficie : 6 278 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Seine-Maritime | 76 | 1790 | 1 271 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 76,
+        "annee_creation": 1790,
+        "population": 1271000,
+        "superficie_km2": 6278,
+        "chef_lieu": "Rouen",
+        "region": "Normandie"
+      }
+    },
+    {
+      "id": "departements_Seine_et_Marne",
+      "label": "Seine-et-Marne",
+      "image": "assets/categories/departements/dept_77.webp",
+      "info": "Département Seine-et-Marne (numéro 77), créé en 1790, appartient à la région Île-de-France. Ses habitants sont appelés les Seine-et-Marnais. Sa préfecture est Melun, ses sous-préfectures sont Fontainebleau, Meaux, Provins, Torcy. Villes principales : Meaux, Chelles, Melun. Population : 1 437 000 habitants · Superficie : 5 915 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Seine-et-Marne | 77 | 1790 | 1 437 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 77,
+        "annee_creation": 1790,
+        "population": 1437000,
+        "superficie_km2": 5915,
+        "chef_lieu": "Melun",
+        "region": "Île-de-France"
+      }
+    },
+    {
+      "id": "departements_Yvelines",
+      "label": "Yvelines",
+      "image": "assets/categories/departements/dept_78.webp",
+      "info": "Département Yvelines (numéro 78), créé en 1968, appartient à la région Île-de-France. Ses habitants sont appelés les Yvelinois. Sa préfecture est Versailles, ses sous-préfectures sont Mantes-la-Jolie, Rambouillet, Saint-Germain-en-Laye. Villes principales : Versailles, Sartrouville, Mantes-la-Jolie. Population : 1 466 000 habitants · Superficie : 2 284 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Yvelines | 78 | 1968 | 1 466 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 78,
+        "annee_creation": 1968,
+        "population": 1466000,
+        "superficie_km2": 2284,
+        "chef_lieu": "Versailles",
+        "region": "Île-de-France"
+      }
+    },
+    {
+      "id": "departements_Deux_Sevres",
+      "label": "Deux-Sèvres",
+      "image": "assets/categories/departements/dept_79.webp",
+      "info": "Département Deux-Sèvres (numéro 79), créé en 1790, appartient à la région Nouvelle-Aquitaine. Ses habitants sont appelés les Deux-Sévriens. Sa préfecture est Niort, ses sous-préfectures sont Bressuire, Parthenay, Saint-Maixent-l'École. Villes principales : Niort, Bressuire, Thouars. Population : 374 000 habitants · Superficie : 5 999 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Deux-Sèvres | 79 | 1790 | 374 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 79,
+        "annee_creation": 1790,
+        "population": 374000,
+        "superficie_km2": 5999,
+        "chef_lieu": "Niort",
+        "region": "Nouvelle-Aquitaine"
+      }
+    },
+    {
+      "id": "departements_Somme",
+      "label": "Somme",
+      "image": "assets/categories/departements/dept_80.webp",
+      "info": "Département Somme (numéro 80), créé en 1790, appartient à la région Hauts-de-France. Ses habitants sont appelés les Samariens. Sa préfecture est Amiens, ses sous-préfectures sont Abbeville, Montdidier, Péronne. Villes principales : Amiens, Abbeville, Albert. Population : 574 000 habitants · Superficie : 6 170 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Somme | 80 | 1790 | 574 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 80,
+        "annee_creation": 1790,
+        "population": 574000,
+        "superficie_km2": 6170,
+        "chef_lieu": "Amiens",
+        "region": "Hauts-de-France"
+      }
+    },
+    {
+      "id": "departements_Tarn",
+      "label": "Tarn",
+      "image": "assets/categories/departements/dept_81.webp",
+      "info": "Département Tarn (numéro 81), créé en 1790, appartient à la région Occitanie. Ses habitants sont appelés les Tarnais. Sa préfecture est Albi, ses sous-préfectures sont Castres, Gaillac. Villes principales : Albi, Castres, Gaillac. Population : 393 000 habitants · Superficie : 5 757 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Tarn | 81 | 1790 | 393 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 81,
+        "annee_creation": 1790,
+        "population": 393000,
+        "superficie_km2": 5757,
+        "chef_lieu": "Albi",
+        "region": "Occitanie"
+      }
+    },
+    {
+      "id": "departements_Tarn_et_Garonne",
+      "label": "Tarn-et-Garonne",
+      "image": "assets/categories/departements/dept_82.webp",
+      "info": "Département Tarn-et-Garonne (numéro 82), créé en 1808, appartient à la région Occitanie. Ses habitants sont appelés les Tarn-et-Garonnais. Sa préfecture est Montauban, ses sous-préfectures sont Castelsarrasin. Villes principales : Montauban, Castelsarrasin, Moissac. Population : 262 000 habitants · Superficie : 3 718 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Tarn-et-Garonne | 82 | 1808 | 262 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 82,
+        "annee_creation": 1808,
+        "population": 262000,
+        "superficie_km2": 3718,
+        "chef_lieu": "Montauban",
+        "region": "Occitanie"
+      }
+    },
+    {
+      "id": "departements_Var",
+      "label": "Var",
+      "image": "assets/categories/departements/dept_83.webp",
+      "info": "Département Var (numéro 83), créé en 1790, appartient à la région Provence-Alpes-Côte d'Azur. Ses habitants sont appelés les Varois. Sa préfecture est Toulon, ses sous-préfectures sont Brignoles, Draguignan. Villes principales : Toulon, La Seyne-sur-Mer, Hyères. Population : 1 124 000 habitants · Superficie : 5 973 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Var | 83 | 1790 | 1 124 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 83,
+        "annee_creation": 1790,
+        "population": 1124000,
+        "superficie_km2": 5973,
+        "chef_lieu": "Toulon",
+        "region": "Provence-Alpes-Côte d'Azur"
+      }
+    },
+    {
+      "id": "departements_Vaucluse",
+      "label": "Vaucluse",
+      "image": "assets/categories/departements/dept_84.webp",
+      "info": "Département Vaucluse (numéro 84), créé en 1790, appartient à la région Provence-Alpes-Côte d'Azur. Ses habitants sont appelés les Vauclusiens. Sa préfecture est Avignon, ses sous-préfectures sont Apt, Carpentras, Cavaillon. Villes principales : Avignon, Carpentras, Orange. Population : 562 000 habitants · Superficie : 5 690 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Vaucluse | 84 | 1790 | 562 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 84,
+        "annee_creation": 1790,
+        "population": 562000,
+        "superficie_km2": 5690,
+        "chef_lieu": "Avignon",
+        "region": "Provence-Alpes-Côte d'Azur"
+      }
+    },
+    {
+      "id": "departements_Vendee",
+      "label": "Vendée",
+      "image": "assets/categories/departements/dept_85.webp",
+      "info": "Département Vendée (numéro 85), créé en 1790, appartient à la région Pays de la Loire. Ses habitants sont appelés les Vendéens. Sa préfecture est La Roche-sur-Yon, ses sous-préfectures sont Fontenay-le-Comte, Les Sables-d'Olonne. Villes principales : La Roche-sur-Yon, Les Sables-d'Olonne, Challans. Population : 709 000 habitants · Superficie : 6 720 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Vendée | 85 | 1790 | 709 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 85,
+        "annee_creation": 1790,
+        "population": 709000,
+        "superficie_km2": 6720,
+        "chef_lieu": "La Roche-sur-Yon",
+        "region": "Pays de la Loire"
+      }
+    },
+    {
+      "id": "departements_Vienne",
+      "label": "Vienne",
+      "image": "assets/categories/departements/dept_86.webp",
+      "info": "Département Vienne (numéro 86), créé en 1790, appartient à la région Nouvelle-Aquitaine. Ses habitants sont appelés les Viennois. Sa préfecture est Poitiers, ses sous-préfectures sont Châtellerault, Montmorillon. Villes principales : Poitiers, Châtellerault, Montmorillon. Population : 439 000 habitants · Superficie : 6 990 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Vienne | 86 | 1790 | 439 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 86,
+        "annee_creation": 1790,
+        "population": 439000,
+        "superficie_km2": 6990,
+        "chef_lieu": "Poitiers",
+        "region": "Nouvelle-Aquitaine"
+      }
+    },
+    {
+      "id": "departements_Haute_Vienne",
+      "label": "Haute-Vienne",
+      "image": "assets/categories/departements/dept_87.webp",
+      "info": "Département Haute-Vienne (numéro 87), créé en 1790, appartient à la région Nouvelle-Aquitaine. Ses habitants sont appelés les Haut-Viennois. Sa préfecture est Limoges, ses sous-préfectures sont Bellac, Rochechouart. Villes principales : Limoges, Saint-Junien, Panazol. Population : 370 000 habitants · Superficie : 5 520 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Haute-Vienne | 87 | 1790 | 370 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 87,
+        "annee_creation": 1790,
+        "population": 370000,
+        "superficie_km2": 5520,
+        "chef_lieu": "Limoges",
+        "region": "Nouvelle-Aquitaine"
+      }
+    },
+    {
+      "id": "departements_Vosges",
+      "label": "Vosges",
+      "image": "assets/categories/departements/dept_88.webp",
+      "info": "Département Vosges (numéro 88), créé en 1790, appartient à la région Grand Est. Ses habitants sont appelés les Vosgiens. Sa préfecture est Épinal, ses sous-préfectures sont Neufchâteau, Saint-Dié-des-Vosges, Vittel. Villes principales : Épinal, Saint-Dié-des-Vosges, Gérardmer. Population : 363 000 habitants · Superficie : 5 874 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Vosges | 88 | 1790 | 363 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 88,
+        "annee_creation": 1790,
+        "population": 363000,
+        "superficie_km2": 5874,
+        "chef_lieu": "Épinal",
+        "region": "Grand Est"
+      }
+    },
+    {
+      "id": "departements_Yonne",
+      "label": "Yonne",
+      "image": "assets/categories/departements/dept_89.webp",
+      "info": "Département Yonne (numéro 89), créé en 1790, appartient à la région Bourgogne-Franche-Comté. Ses habitants sont appelés les Icaunais. Sa préfecture est Auxerre, ses sous-préfectures sont Avallon, Sens. Villes principales : Auxerre, Sens, Joigny. Population : 354 000 habitants · Superficie : 7 427 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Yonne | 89 | 1790 | 354 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 89,
+        "annee_creation": 1790,
+        "population": 354000,
+        "superficie_km2": 7427,
+        "chef_lieu": "Auxerre",
+        "region": "Bourgogne-Franche-Comté"
+      }
+    },
+    {
+      "id": "departements_Territoire_de_Belfort",
+      "label": "Territoire de Belfort",
+      "image": "assets/categories/departements/dept_90.webp",
+      "info": "Le Territoire de Belfort (numéro 90), créé en 1922, appartient à la région Bourgogne-Franche-Comté. Ses habitants sont appelés les Terrifortains. Sa préfecture est Belfort. Villes principales : Belfort, Delle, Beaucourt. Population : 141 000 habitants · Superficie : 609 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Territoire de Belfort | 90 | 1922 | 141 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 90,
+        "annee_creation": 1922,
+        "population": 141000,
+        "superficie_km2": 609,
+        "chef_lieu": "Belfort",
+        "region": "Bourgogne-Franche-Comté"
+      }
+    },
+    {
+      "id": "departements_Essonne",
+      "label": "Essonne",
+      "image": "assets/categories/departements/dept_91.webp",
+      "info": "Département Essonne (numéro 91), créé en 1968, appartient à la région Île-de-France. Ses habitants sont appelés les Essonniens. Sa préfecture est Évry-Courcouronnes, ses sous-préfectures sont Étampes, Palaiseau. Villes principales : Évry-Courcouronnes, Massy, Palaiseau. Population : 1 304 000 habitants · Superficie : 1 804 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Essonne | 91 | 1968 | 1 304 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 91,
+        "annee_creation": 1968,
+        "population": 1304000,
+        "superficie_km2": 1804,
+        "chef_lieu": "Évry-Courcouronnes",
+        "region": "Île-de-France"
+      }
+    },
+    {
+      "id": "departements_Hauts_de_Seine",
+      "label": "Hauts-de-Seine",
+      "image": "assets/categories/departements/dept_92.webp",
+      "info": "Département Hauts-de-Seine (numéro 92), créé en 1968, appartient à la région Île-de-France. Ses habitants sont appelés les Alto-Séquanais. Sa préfecture est Nanterre, ses sous-préfectures sont Antony, Boulogne-Billancourt. Villes principales : Boulogne-Billancourt, Nanterre, Asnières-sur-Seine. Population : 1 621 000 habitants · Superficie : 176 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Hauts-de-Seine | 92 | 1968 | 1 621 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 92,
+        "annee_creation": 1968,
+        "population": 1621000,
+        "superficie_km2": 176,
+        "chef_lieu": "Nanterre",
+        "region": "Île-de-France"
+      }
+    },
+    {
+      "id": "departements_Seine_Saint_Denis",
+      "label": "Seine-Saint-Denis",
+      "image": "assets/categories/departements/dept_93.webp",
+      "info": "Département Seine-Saint-Denis (numéro 93), créé en 1968, appartient à la région Île-de-France. Ses habitants sont appelés les Séquano-Dionysiens. Sa préfecture est Bobigny, ses sous-préfectures sont Le Raincy, Saint-Denis. Villes principales : Saint-Denis, Montreuil, Aubervilliers. Population : 1 682 000 habitants · Superficie : 236 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Seine-Saint-Denis | 93 | 1968 | 1 682 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 93,
+        "annee_creation": 1968,
+        "population": 1682000,
+        "superficie_km2": 236,
+        "chef_lieu": "Bobigny",
+        "region": "Île-de-France"
+      }
+    },
+    {
+      "id": "departements_Val_de_Marne",
+      "label": "Val-de-Marne",
+      "image": "assets/categories/departements/dept_94.webp",
+      "info": "Département Val-de-Marne (numéro 94), créé en 1968, appartient à la région Île-de-France. Ses habitants sont appelés les Val-de-Marnais. Sa préfecture est Créteil, ses sous-préfectures sont Fontenay-sous-Bois, L'Haÿ-les-Roses. Villes principales : Créteil, Vitry-sur-Seine, Maisons-Alfort. Population : 1 415 000 habitants · Superficie : 145 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Val-de-Marne | 94 | 1968 | 1 415 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 94,
+        "annee_creation": 1968,
+        "population": 1415000,
+        "superficie_km2": 145,
+        "chef_lieu": "Créteil",
+        "region": "Île-de-France"
+      }
+    },
+    {
+      "id": "departements_Val_d_Oise",
+      "label": "Val-d'Oise",
+      "image": "assets/categories/departements/dept_95.webp",
+      "info": "Département Val-d'Oise (numéro 95), créé en 1968, appartient à la région Île-de-France. Ses habitants sont appelés les Val d'Oisiens. Sa préfecture est Cergy, ses sous-préfectures sont Argenteuil, Pontoise, Sarcelles. Villes principales : Argenteuil, Cergy, Sarcelles. Population : 1 253 000 habitants · Superficie : 1 246 km2. Mesure : population légale INSEE arrondie au millier d'habitants, recensement actualisé.",
+      "hint": "Val-d'Oise | 95 | 1968 | 1 253 000 hab · ordre de grandeur",
+      "attributes": {
+        "numero": 95,
+        "annee_creation": 1968,
+        "population": 1253000,
+        "superficie_km2": 1246,
+        "chef_lieu": "Cergy",
+        "region": "Île-de-France"
+      }
+    }
+  ]
+}
