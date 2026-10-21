@@ -1,0 +1,16 @@
+# Pack Bateaux - sources des photos (Wikimedia Commons)
+
+vaurien.jpg : https://commons.wikimedia.org/wiki/Special:FilePath/Vaurienworlds.jpg?width=1600
+caravelle.jpg : https://commons.wikimedia.org/wiki/Special:FilePath/Caravelle_deriveur_(1).jpg?width=1600
+corsaire.jpg : https://commons.wikimedia.org/wiki/Special:FilePath/La_Rochelle_-_Corsaire.jpg?width=1600
+muscadet.jpg : https://commons.wikimedia.org/wiki/Special:FilePath/Muscadet_001.jpg
+arpege.jpg : https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Arpège_sous_voiles.jpg/1600px-Arpège_sous_voiles.jpg
+fantasia.jpg : https://commons.wikimedia.org/wiki/Special:FilePath/Jeanneau_Fantasia_27_sailboat_Xantippe_8712.jpg?width=1600
+first-31-7.jpg : https://commons.wikimedia.org/wiki/Special:FilePath/S-Y_Penelope,_FIN-10605,_Beneteau_First_31.7_(29207950165).jpg?width=1600
+figaro-beneteau-3.jpg : https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Voilier_monotype_Figaro_3_Alakaluf_à_Lorient_DSC_0415.jpg/1600px-Voilier_monotype_Figaro_3_Alakaluf_à_Lorient_DSC_0415.jpg
+paris.jpg : https://commons.wikimedia.org/wiki/Special:FilePath/Paris_underway.jpg?width=1600
+ile-de-france.jpg : https://commons.wikimedia.org/wiki/Special:FilePath/Paquebot_Ile_de_France-en_navigation.jpg?width=1600
+normandie.jpg : https://commons.wikimedia.org/wiki/Special:FilePath/Normandie,_North_River,_Manhattan,_from_Pier_88,_French_Line,_Manhattan_(NYPL_b13668355-482604).jpg?width=1600
+liberte.jpg : https://commons.wikimedia.org/wiki/Special:FilePath/SS_Liberte.jpg?width=1600
+france.jpg : https://commons.wikimedia.org/wiki/Special:FilePath/France_in_New_York,_1961.jpg?width=1600
+queen-mary-2.jpg : https://commons.wikimedia.org/wiki/Special:FilePath/Ms_Queen_Mary_2_at_Geiranger_Fjord_-_panoramio.jpg?width=1600
